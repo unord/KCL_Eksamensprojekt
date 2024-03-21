@@ -1,0 +1,172 @@
+{% extends "base.html" %}
+
+{% block content %}
+<script src="https://kit.fontawesome.com/64d5226875.js" crossorigin="anonymous"></script>
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+<!-- <div class="panel panel-default">
+  <div class="panel-heading">Panel Heading</div>
+  <div class="panel-body">Panel Content</div>
+</div> -->
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="card">
+        <div class="card-body">
+          <div class="text-center">
+            <h2>Welcome to Star Identifier</h2>
+            <p>This app is made to help you Identify different types of Stars</p>
+            <button class="btn btn-info">Learn More</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-lg-6">
+      <div class="card">
+        <div class="card-body">
+          
+         <h3>The Different Star types</h3>
+          <ul>
+            <li>Red Dwarf</li>
+            <li>Brown Dwarf</li>
+            <li>White Dwarf</li>
+            <li>Main Sequence</li>
+            <li>Super Giants</li>
+            <li>Hyper Giants</li>
+          </ul>
+          <br>
+          <h4>Data examples:</h4>
+          <ul>  
+            <br>
+            <li>Red Dwarf:
+              <ul>
+                <li> Temperature [K]: 3068</li>
+                <li> Luminosity: 0.0024 </li>
+                <li> Radius: 0.17 </li>
+                <li> Absolute Magnitude: 16.12 </li>
+                <li> Spectral Class: M </li>
+                <li> Color: Red </li>
+              </ul>
+            </li>
+            <br>
+            <li>Brown Dwarf:
+              <ul>
+                <li> Temperature [K]: 3628</li>
+                <li> Luminosity: 0.0055 </li>
+                <li> Radius: 0.393 </li>
+                <li> Absolute Magnitude: 10.48 </li>
+                <li> Spectral Class: M </li>
+                <li> Color: Red </li>
+              </ul>
+            </li>
+            <br>
+            <li>White Dwarf:
+              <ul>
+                <li> Temperature [K]: 16500</li>
+                <li> Luminosity: 0.013 </li>
+                <li> Radius: 0.014 </li>
+                <li> Absolute Magnitude: 11.89 </li>
+                <li> Spectral Class: B </li>
+                <li> Color: Blue White </li>
+              </ul>
+            </li>
+            <br>
+            <li>Main Sequence:
+              <ul>
+                <li> Temperature [K]: 5800</li>
+                <li> Luminosity: 0.81 </li>
+                <li> Radius: 0.9 </li>
+                <li> Absolute Magnitude: 5.05 </li>
+                <li> Spectral Class: F </li>
+                <li> Color: Yellow-White </li>
+              </ul>
+            </li>
+            <br>
+            <li>Super Giant:
+              <ul>
+                <li> Temperature [K]: 3600</li>
+                <li> Luminosity: 320000 </li>
+                <li> Radius: 29 </li>
+                <li> Absolute Magnitude: -6.6 </li>
+                <li> Spectral Class: M </li>
+                <li> Color: Red </li>
+              </ul>
+            </li>
+            <br>
+            <li>Hyper Giant:
+              <ul>
+                <li> Temperature [K]: 3450</li>
+                <li> Luminosity: 174000 </li>
+                <li> Radius: 1284 </li>
+                <li> Absolute Magnitude: -11.28 </li>
+                <li> Spectral Class: M </li>
+                <li> Color: Red </li>
+              </ul>
+            </li>
+          </ul>
+          
+        </div>
+      </div> 
+    </div>
+    <div class="col-lg-4">
+      <div class="card">
+        <div class="card-body">
+          <h2>Input Your Data:</h2>
+          <form method="POST" id="prediction-form">
+              <div class="form-group">
+                  <input id="Temperature(K)" type="Temperature(K)" class="form-control" name="Temperature" placeholder="Temperature">
+              </div>
+      
+              <div class="form-group">
+                  <input id="RelativeLuminosity" type="RelativeLuminosity" class="form-control" name="RLuminosity" placeholder="RLuminosity">
+              </div>
+      
+              <div class="form-group">
+                  <input id="Relative Radius" type="Relative Radius" class="form-control" name="RRadius" placeholder="RRadius">
+              </div>
+      
+              <div class="form-group">
+                  <input id="AbsoluteMagnitude" type="AbsoluteMagnitude" class="form-control" name="AM" placeholder="AM">
+              </div>
+      
+              <div class="form-group">
+                  <select name="Sclass" id="spectral classification" class="form-control">
+                      <option value="">spectral classification</option>
+                      <option value="O">O</option>
+                      <option value="B">B</option>
+                      <option value="A">A</option>
+                      <option value="F">F</option>
+                      <option value="G">G</option>
+                      <option value="K">K</option>
+                      <option value="M">M</option>
+                  </select>
+              </div>
+      
+              <div class="form-group">
+                  <select name="Color" id="Color" class="form-control">
+                      <option value="">Color of star</option>
+                      <option value="red">Red</option>
+                      <option value="blue-white">Blue-White</option>
+                      <option value="white">White</option>
+                      <option value="blue">Blue</option>
+                      <option value="yellowish">Yellowish</option>
+                      <option value="pale yellow orange">Pale-Yellow-Orange</option>
+                      <option value="whitish">Whitish</option>
+                      <option value="white-yellow">White-yellow</option>
+                      <option value="orange">Orange</option>
+                      <option value="orange-red">Orange-red</option>
+                  </select>
+              </div>
+      
+              <div class="form-group mt-3">
+                <button name="id_star_button" type="submit" class="btn btn-info">Check star</button>
+              </div>
+          </form>
+          <div id="prediction-output"></div>
+        </div>      
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
