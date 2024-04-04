@@ -8,7 +8,7 @@ app = Flask(__name__)
 app.config['SECRET_KEY'] = 'HTX123'  
 
 # Load the pre-trained model for future predictions
-model = pickle.load(open('StarID/flask_penguins/static/models/star_model' , 'rb'))
+### model = pickle.load(open('StarID/flask_penguins/static/models/star_model' , 'rb'))
 
 # Define the default route that serves the homepage
 @app.route('/', methods=["GET", "POST"])
