@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+
+{% block content %}
+<script src="https://kit.fontawesome.com/64d5226875.js" crossorigin="anonymous"></script>
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+<!-- <div class="panel panel-default">
+  <div class="panel-heading">Panel Heading</div>
+  <div class="panel-body">Panel Content</div>
+</div> -->
+<div class="container">
+  <div class="row">
+    <div class="col-lg-12">
+      <div class="card">
+        <div class="card-body">
+          <div class="text-center">
+            <h2>Welcome to Star Identifier</h2>
+            <p>This app is made to help you Identify different types of Stars</p>
+            <button class="btn btn-info">Learn More</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <div class="row">
+    <div class="col-lg-4">
+      <div class="card">
+        <div class="card-body">
+          <h2>Input Your Data:</h2>
+          <form method="POST" id="prediction-form">
+              <div class="form-group">
+                  <input id="Temperature(K)" type="Temperature(K)" class="form-control" name="Temperature" placeholder="Temperature">
+              </div>
+      
+              <div class="form-group">
+                  <input id="RelativeLuminosity" type="RelativeLuminosity" class="form-control" name="RLuminosity" placeholder="RLuminosity">
+              </div>
+      
+              <div class="form-group">
+                  <input id="Relative Radius" type="Relative Radius" class="form-control" name="RRadius" placeholder="RRadius">
+              </div>
+      
+              <div class="form-group">
+                  <input id="AbsoluteMagnitude" type="AbsoluteMagnitude" class="form-control" name="AM" placeholder="AM">
+              </div>
+      
+              <div class="form-group">
+                  <select name="Sclass" id="spectral classification" class="form-control">
+                      <option value="">spectral classification</option>
+                      <option value="O">O</option>
+                      <option value="B">B</option>
+                      <option value="A">A</option>
+                      <option value="F">F</option>
+                      <option value="G">G</option>
+                      <option value="K">K</option>
+                      <option value="M">M</option>
+                  </select>
+              </div>
+      
+              <div class="form-group">
+                  <select name="Color" id="Color" class="form-control">
+                      <option value="">Color of star</option>
+                      <option value="red">Red</option>
+                      <option value="blue-white">Blue-White</option>
+                      <option value="white">White</option>
+                      <option value="blue">Blue</option>
+                      <option value="yellowish">Yellowish</option>
+                      <option value="pale yellow orange">Pale-Yellow-Orange</option>
+                      <option value="whitish">Whitish</option>
+                      <option value="white-yellow">White-yellow</option>
+                      <option value="orange">Orange</option>
+                      <option value="orange-red">Orange-red</option>
+                  </select>
+              </div>
+      
+              <div class="form-group mt-3">
+                <button name="id_star_button" type="submit" class="btn btn-info">Check star</button>
+              </div>
+          </form>
+          <div id="prediction-output"></div>
+        </div>      
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

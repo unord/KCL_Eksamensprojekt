@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+
+/* base */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.body {
+  background-color: 14213D;
+}
+  
+.div5 { grid-area: 4 / 1 / 5 / 4; }
