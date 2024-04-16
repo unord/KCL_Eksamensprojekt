@@ -18,25 +18,42 @@
     </div>
 
     <div class="form-group">
-      <label for="city">City:</label>
-      <select class="form-control" name="city" id="city">
-        <option value="Bornoholm">Bornholm</option>
-        <option value="Fyn">Fyn</option>
-        <option value="Midt- og vestsjælland">Midt- og vestsjælland</option>
-        <option value="Nordjylland">Nordjylland</option>
-        <option value="Nordsjælland">Nordsjælland</option>
-        <option value="Sydsjælland">Sydsjælland</option>
-        <option value="Østjylland">Østjylland</option>
-        <!-- Add more options based on your dataset -->
+      <label for="city">Age</label>
+      <select class="form-control" name="Age" id="Age">
+        <option value="0-17">0-17</option>
+        <option value="18-24">18-24</option>
+        <option value="25-44">45-64</option>
+        <option value="65">65</option>
+        <option value="Uoplyst">Uoplyst</option>
       </select>
     </div>
-    
+
     <div class="form-group">
-      <label for="year">Year:</label>
-      <select class="form-control" name="year" id="year">
-        <option value="2022">2022</option>
-        <option value="2021">2021</option>
-        <!-- Add more options based on your dataset -->
+      <label for="Område">Område</label>
+      <select class="form-control" name="Område" id="Område">
+        <option value="Region Hovedstaden">Region Hovedstaden</option>
+        <option value="Region Sjælland">Region Sjælland</option>
+        <option value="Region Syddanmark">Region Syddanmark</option>
+        <option value="Region Midtjylland">Region Midtjylland</option>
+        <option value="Region Nordjylland">Region Nordjylland</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="Type of Vehicle">Type of Vehicle</label>
+      <select class="form-control" name="Vehicle" id="Vehicle">
+        <option value="Almindelig personbil">Almindelig personbil</option>
+        <option value="Taxi">Taxi</option>
+        <option value="Køretøj 0-3.500 kg under udrykning">Køretøj 0-3.500 kg under udrykning</option>
+        <option value="Varebil 0-3.500 kg">Varebil 0-3.500 kg</option>
+        <option value="Lastbil over 3.500 kg">Lastbil over 3.500 kg</option>
+        <option value="Bus">Bus</option>
+        <option value="Motorcykel">Motorcykel</option>
+        <option value="Knallert 45">Knallert 45</option>
+        <option value="Knallert">Knallert</option>
+        <option value="Cykel">Cykel</option>
+        <option value="Fodgænger">Fodgænger</option>
+        <option value="Andre">Andre</option>
       </select>
     </div>
 
@@ -47,12 +64,5 @@
 
 </div>
 
-The gender categories are: Mænd, Kvinder, Uoplyst køn
-
-Age: 0-17 År,  18-24 År, 25-44 År, 45-64 År, 65 År og derover, Uoplyst alder
-
-Area: Region Hovedstaden, Region Sjælland, Region Syddanmark, Region Midtjylland, Region Nordjylland
-
-Type of Vehicle: Almindelig personbil, Taxi, Køretøj 0-3.500 kg under udrykning, Varebil 0-3.500 kg., Lastbil over 3.500 kg., Bus, Motorcykel, Knallert 45, Knallert, Cykel, Fodgænger, Andre
 
 {% endblock %}
