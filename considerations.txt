@@ -1,0 +1,6 @@
+possible color palette
+3a86ff text 
+03045e background
+f8f9fa card
+212529 card text
+00008d/03045e map region selected
