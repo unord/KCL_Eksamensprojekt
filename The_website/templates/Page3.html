@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+
+{% block content %}
+<script src="https://kit.fontawesome.com/64d5226875.js" crossorigin="anonymous"></script>
+<script src="{{ url_for('static', filename='js/script.js') }}"></script>
+
+<div class="container">
+  <h1>Police Accidents Dataset</h1>
+  
+
+  <!-- Button to navigate to page 3 -->
+  <a href="/page3" class="btn btn-primary">Next</a>
+  
+  <!-- Button to navigate back to the home page -->
+  <a href="/Page2" class="btn btn-secondary">Back to Picker</a>
+</div>
+
+{% endblock %}

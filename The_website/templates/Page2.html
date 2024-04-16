@@ -6,7 +6,7 @@
 
 <div class="container">
   <h1>Police Accidents Dataset</h1>
-  <form action="/id/" method="POST"> <!-- Update the action attribute here -->
+  <form method="POST">
     <div class="form-group">
       <label for="city">City:</label>
       <select class="form-control" name="city" id="city">
@@ -20,20 +20,10 @@
         <!-- Add more options based on your dataset -->
       </select>
     </div>
-    <div class="form-group">
-      <label for="year">Year:</label>
-      <select class="form-control" name="year" id="year">
-        <option value="2022">2022</option>
-        <option value="2021">2021</option>
-        <!-- Add more options based on your dataset -->
-      </select>
-    </div>
 
-    <!-- Add more dropdown boxes for other attributes -->
-
-    <button type="submit" class="btn btn-primary">Next</button>
-  </form>
-
+  <!-- Button to navigate to page 3 -->
+  <a href="/page3" class="btn btn-primary">Next</a>
+   
 </div>
 
 {% endblock %}
