@@ -6,13 +6,63 @@
 
 <div class="container">
   <h1>Police Accidents Dataset</h1>
-  
+  <form action="/id/" method="POST"> <!-- Update the action attribute here -->
+    <div class="form-group">
+      <label for="year">Gender:</label>
+      <select class="form-control" name="gender" id="Gender">
+        <option value="Mænd">Mænd</option>
+        <option value="Kvinder">Kvinder</option>
+        <option value="Uoplyst køn">Uoplyst køn</option>
+        <!-- Add more options based on your dataset -->
+      </select>
+    </div>
 
-  <!-- Button to navigate to page 3 -->
-  <a href="/page3" class="btn btn-primary">Next</a>
-  
-  <!-- Button to navigate back to the home page -->
-  <a href="/Page2" class="btn btn-secondary">Back to Picker</a>
+    <div class="form-group">
+      <label for="city">Age</label>
+      <select class="form-control" name="Age" id="Age">
+        <option value="0-17">0-17</option>
+        <option value="18-24">18-24</option>
+        <option value="25-44">45-64</option>
+        <option value="65">65</option>
+        <option value="Uoplyst">Uoplyst</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="Område">Område</label>
+      <select class="form-control" name="Område" id="Område">
+        <option value="Region Hovedstaden">Region Hovedstaden</option>
+        <option value="Region Sjælland">Region Sjælland</option>
+        <option value="Region Syddanmark">Region Syddanmark</option>
+        <option value="Region Midtjylland">Region Midtjylland</option>
+        <option value="Region Nordjylland">Region Nordjylland</option>
+      </select>
+    </div>
+
+    <div class="form-group">
+      <label for="Type of Vehicle">Type of Vehicle</label>
+      <select class="form-control" name="Vehicle" id="Vehicle">
+        <option value="Almindelig personbil">Almindelig personbil</option>
+        <option value="Taxi">Taxi</option>
+        <option value="Køretøj 0-3.500 kg under udrykning">Køretøj 0-3.500 kg under udrykning</option>
+        <option value="Varebil 0-3.500 kg">Varebil 0-3.500 kg</option>
+        <option value="Lastbil over 3.500 kg">Lastbil over 3.500 kg</option>
+        <option value="Bus">Bus</option>
+        <option value="Motorcykel">Motorcykel</option>
+        <option value="Knallert 45">Knallert 45</option>
+        <option value="Knallert">Knallert</option>
+        <option value="Cykel">Cykel</option>
+        <option value="Fodgænger">Fodgænger</option>
+        <option value="Andre">Andre</option>
+      </select>
+    </div>
+
+    <!-- Add more dropdown boxes for other attributes -->
+
+    <button type="submit" class="btn btn-primary">Next</button>
+  </form>
+
 </div>
+
 
 {% endblock %}

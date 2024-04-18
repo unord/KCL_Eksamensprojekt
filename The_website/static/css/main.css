@@ -12,8 +12,45 @@ path:hover {
   padding: 0;
 }
 
-.body {
-  background-color: 14213D;
+.grid-container {
+    display: grid;
+    grid-template-columns: 1000px 1fr; /* 250px width for form box and 1fr for results box */
+    gap: 50px; /* Gap between grid items */
+    background-color: #ffffff; /* White background */
+    margin: 20px;
 }
-  
-.div5 { grid-area: 4 / 1 / 5 / 4; }
+
+.info-container, .results-container {
+    padding: 20px; /* Padding inside the boxes */
+}
+
+.info-container {
+    background-color: #d9f1f5; /* Light green background */
+    border-radius: 25px;
+    padding: 20px;
+    text-align: center;
+}
+
+.results-container {
+    background-color: #ebebeb; /* Light grey background */
+    border-radius: 25px;
+    padding: 20px;
+}
+
+.btn-to-page2 {
+    display: block;
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: #007bff; /* Blue background */
+    color: #ffffff; /* White text */
+    border: none;
+    border-radius: 5px; /* Rounded corners */
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+.btn-to-page2:hover {
+    background-color: #0056b3; /* Darker blue background on hover */
+}

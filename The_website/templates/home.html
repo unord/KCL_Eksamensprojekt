@@ -1,39 +1,26 @@
 {% extends "base.html" %}
 
 {% block content %}
-<script src="https://kit.fontawesome.com/64d5226875.js" crossorigin="anonymous"></script>
-<script src="{{ url_for('static', filename='js/script.js') }}"></script>
 
-<div class="container">
-  <h1>Police Accidents Dataset</h1>
-  <form action="/id/" method="POST"> <!-- Update the action attribute here -->
-    <div class="form-group">
-      <label for="city">City:</label>
-      <select class="form-control" name="city" id="city">
-        <option value="Bornoholm">Bornholm</option>
-        <option value="Fyn">Fyn</option>
-        <option value="Midt- og vestsjælland">Midt- og vestsjælland</option>
-        <option value="Nordjylland">Nordjylland</option>
-        <option value="Nordsjælland">Nordsjælland</option>
-        <option value="Sydsjælland">Sydsjælland</option>
-        <option value="Østjylland">Østjylland</option>
-        <!-- Add more options based on your dataset -->
-      </select>
-    </div>
-    <div class="form-group">
-      <label for="year">Year:</label>
-      <select class="form-control" name="year" id="year">
-        <option value="2022">2022</option>
-        <option value="2021">2021</option>
-        <!-- Add more options based on your dataset -->
-      </select>
+<div class="grid-container">
+    <div class="info-container">
+        <!-- Info box content -->
+        <h3>Information</h3>
+        <p>Information about how you use this webpage</p>
     </div>
 
-    <!-- Add more dropdown boxes for other attributes -->
-
-    <button type="submit" class="btn btn-primary">Next</button>
-  </form>
-
+    <div class="results-container">
+        <!-- Results box content -->
+        <h3>Results</h3>
+        <p>Here are the results:</p>
+        <ul>
+            <li>Result 1</li>
+            <li>Result 2</li>
+            <li>Result 3</li>
+        </ul>
+        
+        <!-- Button to navigate to page 2 -->
+        <a href="/page2" class="btn btn-to-page2">Go to Page 2</a>
+    </div>
 </div>
-
 {% endblock %}
