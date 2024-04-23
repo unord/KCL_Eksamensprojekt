@@ -1,5 +1,10 @@
 // Wait for the document to be fully loaded
 document.addEventListener("DOMContentLoaded", function() {
+    var nord = document.querySelector("#Nordjylland");
+    var midt = document.querySelector("#Midtjylland");
+    console.log(nord);
+    console.log(midt);
+
     // Get the prediction form element
     const form = document.getElementById("prediction-form");
     
@@ -26,4 +31,6 @@ document.addEventListener("DOMContentLoaded", function() {
             console.error("Error:", error);
         });
     });
+
+
 });

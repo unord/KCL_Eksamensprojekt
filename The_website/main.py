@@ -14,16 +14,16 @@ app.config['SECRET_KEY'] = 'HTX123'
 @app.route('/', methods=["GET", "POST"])
 @app.route('/<string:page>/', methods=["GET", "POST"])
 def home(page=None):
-    if page == 'id':
+    if page == 'Page2':
         # Handle the id form submission here if needed
-        return render_template('page2.html')  # Render page2.html
-    elif page == 'page3':
-        return render_template('page3.html')  # Render page3.html
+        return render_template('Page2.html')  # Render Page2.html
+    elif page == 'Page3':
+        return render_template('Page3.html')  # Render Page3.html
     else:
         return render_template('home.html')  # Render home.html if no specific page requested
 
 
 # Start the Flask application
 if __name__ == '__main__':
-    #app.debug = True
+    app.debug = True
     app.run(host='0.0.0.0', port=5000)
