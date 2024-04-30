@@ -1,41 +1,30 @@
-// Wait for the DOM to be fully loaded
 document.addEventListener("DOMContentLoaded", function() {   
-    // Get all path elements in the SVG
     const paths = document.querySelectorAll('#mapsection path');
+    const tooltip = document.getElementById('tooltip');
 
-    // Add click event listener to each path
-    paths.forEach((path, index) => {
-        path.addEventListener('click', function() {
-            // Redirect to page 3
-            window.location.href = '/page3';
-
-            // Save the clicked region (you can use localStorage, sessionStorage, or cookies)
-            localStorage.setItem('clickedRegion', index);
+    // Add mouseover event listener to each path for tooltip
+    paths.forEach((path) => {
+        path.addEventListener('mouseover', function(event) {
+            const regionName = event.target.getAttribute('title');
+            tooltip.innerText = regionName;
+            tooltip.style.opacity = 1;
+            tooltip.style.left = event.pageX + 'px';
+            tooltip.style.top = event.pageY + 'px';
         });
+
+        // Add mouseout event listener to hide tooltip
+        path.addEventListener('mouseout', function() {
+            tooltip.style.opacity = 0;
+        });
+
+        path.style.cursor = 'pointer'; // Change cursor to pointer
     });
 
-    // Add an event listener for the form submission
-    form.addEventListener('submit', function(event) {
-        // Prevent the default form submission
-        event.preventDefault();
-
-        // Gather form data
-        const formData = new FormData(form);
-        
-        // Send a POST request to the /id/ endpoint with the form data
-        fetch("/id/", {
-            method: "POST",
-            body: formData
-        })
-        .then(response => response.json())
-        .then(data => {
-            // Display the prediction result on the page
-            const predictionOutput = document.getElementById("prediction-output");
-            predictionOutput.textContent = "Prediction: " + data.prediction;
-        })        
-        .catch(error => {
-            // Handle any errors that occur during the fetch
-            console.error("Error:", error);
+    // Add click event listener to each path for redirection and storing clicked region
+    paths.forEach((path, index) => {
+        path.addEventListener('click', function() {
+            window.location.href = '/Page3';
+            localStorage.setItem('clickedRegion', index);
         });
     });
 });

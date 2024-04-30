@@ -54,3 +54,15 @@ path:hover {
 .btn-to-page2:hover {
     background-color: #0056b3; /* Darker blue background on hover */
 }
+
+.tooltip {
+    position: absolute;
+    background-color: rgba(0, 0, 0, 0.7); /* Background color */
+    color: #fff; /* Text color */
+    padding: 5px 10px; /* Padding */
+    border-radius: 5px; /* Border radius */
+    font-size: 12px; /* Font size */
+    pointer-events: none; /* Avoid blocking mouse events on the tooltip */
+    z-index: 9999; /* Ensure tooltip appears above other elements */
+    display: none; /* Initially hide the tooltip */
+}
