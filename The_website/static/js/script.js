@@ -1,15 +1,22 @@
-// Wait for the document to be fully loaded
-document.addEventListener("DOMContentLoaded", function() {
-    var nord = document.querySelector("#Nordjylland");
-    var midt = document.querySelector("#Midtjylland");
-    console.log(nord);
-    console.log(midt);
+// Wait for the DOM to be fully loaded
+document.addEventListener("DOMContentLoaded", function() {   
+    // Get all path elements in the SVG
+    const paths = document.querySelectorAll('#mapsection path');
 
-    // Get the prediction form element
-    const form = document.getElementById("prediction-form");
-    
+    // Add click event listener to each path
+    paths.forEach((path, index) => {
+        path.addEventListener('click', function() {
+            // Redirect to page 3
+            window.location.href = '/page3';
+
+            // Save the clicked region (you can use localStorage, sessionStorage, or cookies)
+            localStorage.setItem('clickedRegion', index);
+        });
+    });
+
     // Add an event listener for the form submission
-    form.addEventListener("submit", function(event) {
+    form.addEventListener('submit', function(event) {
+        // Prevent the default form submission
         event.preventDefault();
 
         // Gather form data
@@ -31,6 +38,4 @@ document.addEventListener("DOMContentLoaded", function() {
             console.error("Error:", error);
         });
     });
-
-
 });
