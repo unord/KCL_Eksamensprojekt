@@ -4,27 +4,21 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // Add mouseover event listener to each path for tooltip
     paths.forEach((path) => {
-        path.addEventListener('mouseover', function(event) {
-            const regionName = event.target.getAttribute('title');
-            tooltip.innerText = regionName;
-            tooltip.style.opacity = 1;
-            tooltip.style.left = event.pageX + 'px';
-            tooltip.style.top = event.pageY + 'px';
-        });
-
-        // Add mouseout event listener to hide tooltip
-        path.addEventListener('mouseout', function() {
-            tooltip.style.opacity = 0;
-        });
 
         path.style.cursor = 'pointer'; // Change cursor to pointer
-    });
 
-    // Add click event listener to each path for redirection and storing clicked region
-    paths.forEach((path, index) => {
+        // Add click event listener to each path for redirection
         path.addEventListener('click', function() {
+            const index = Array.from(paths).indexOf(path);
+
+            // Get the title attribute of the clicked path (region name)
+            const regionName = this.getAttribute('title');
+
+            // Save the region name to localStorage
+            localStorage.setItem('selectedRegion', regionName);
+
+            // Redirect to Page3.html
             window.location.href = '/Page3';
-            localStorage.setItem('clickedRegion', index);
         });
     });
 });

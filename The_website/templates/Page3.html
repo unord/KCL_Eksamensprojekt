@@ -7,7 +7,8 @@
 <div class="container">
   <h1>Police Accidents Dataset</h1>
 
-  <p>Clicked Region: <span id="clickedRegion"></span></p>
+  <!-- Add a placeholder element for the region name -->
+  <div id="regionName"></div>
 
   <form action="/id/" method="POST"> <!-- Update the action attribute here -->
     <div class="form-group">
@@ -32,17 +33,6 @@
     </div>
 
     <div class="form-group">
-      <label for="Område">Område</label>
-      <select class="form-control" name="Område" id="Område">
-        <option value="Region Hovedstaden">Region Hovedstaden</option>
-        <option value="Region Sjælland">Region Sjælland</option>
-        <option value="Region Syddanmark">Region Syddanmark</option>
-        <option value="Region Midtjylland">Region Midtjylland</option>
-        <option value="Region Nordjylland">Region Nordjylland</option>
-    </select>
-    </div>
-
-    <div class="form-group">
       <label for="Type of Vehicle">Type of Vehicle</label>
       <select class="form-control" name="Vehicle" id="Vehicle">
         <option value="Almindelig personbil">Almindelig personbil</option>
@@ -63,10 +53,23 @@
     <!-- Add more dropdown boxes for other attributes -->
 
     <!-- Button to navigate to page 2 -->
-    <a href="/home.html" class="btn btn-to-page2">Go to se results</a>
+    <a href="/home.html" class="btn btn-to-page2">Go to see results</a>
   </form>
 
 </div>
 
+<!-- Retrieve and display the saved region name -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const regionNameElement = document.getElementById('regionName');
+    const selectedRegion = localStorage.getItem('selectedRegion');
+
+    // Check if a region name is saved
+    if (selectedRegion) {
+      // Display the saved region name
+      regionNameElement.textContent = `Selected Region: ${selectedRegion}`;
+    }
+  });
+</script>
 
 {% endblock %}
