@@ -66,3 +66,16 @@ path:hover {
     z-index: 9999; /* Ensure tooltip appears above other elements */
     display: none; /* Initially hide the tooltip */
 }
+.container {
+ width: 80%;
+ margin: 0 auto;
+}
+
+header {
+ background: #03045e;
+
+}
+
+Logo {
+    float: left;
+}
