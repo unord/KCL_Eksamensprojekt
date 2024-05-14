@@ -67,15 +67,44 @@ path:hover {
     display: none; /* Initially hide the tooltip */
 }
 .container {
- width: 80%;
+ width: 90%;
  margin: 0 auto;
 }
 
 header {
- background: #03045e;
+ background: #001e3c;
+ min-height:85px;
+}
+
+.Logo {
+    float: left;
+}
+
+nav {
+    float: right;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
 
 }
 
-Logo {
-    float: left;
+nav li {
+    display: inline-block;
+
+}
+
+.Lunk{
+    color: #ffffff;
+
+}
+
+.Lunk:hover { color: #585858; }
+
+.footer{
+    background-color: #03045e;
+    padding: auto;
+
 }
