@@ -5,14 +5,14 @@
 <script src="{{ url_for('static', filename='js/script.js') }}"></script>
 
 <div class="container">
-  <h1>Police Accidents Dataset</h1>
+  <h1>Ulykkeberegner</h1>
 
   <!-- Add a placeholder element for the region name -->
   <div id="regionName"></div>
 
   <form action="/id/" method="POST"> <!-- Update the action attribute here -->
     <div class="form-group">
-      <label for="year">Gender:</label>
+      <label for="year">køn:</label>
       <select class="form-control" name="gender" id="Gender">
         <option value="Mænd">Mænd</option>
         <option value="Kvinder">Kvinder</option>
@@ -22,7 +22,7 @@
     </div>
 
     <div class="form-group">
-      <label for="city">Age</label>
+      <label for="city">Alder</label>
       <select class="form-control" name="Age" id="Age">
         <option value="0-17">0-17</option>
         <option value="18-24">18-24</option>
@@ -33,7 +33,7 @@
     </div>
 
     <div class="form-group">
-      <label for="Type of Vehicle">Type of Vehicle</label>
+      <label for="Type of Vehicle">Type af bil</label>
       <select class="form-control" name="Vehicle" id="Vehicle">
         <option value="Almindelig personbil">Almindelig personbil</option>
         <option value="Taxi">Taxi</option>
@@ -53,7 +53,7 @@
     <!-- Add more dropdown boxes for other attributes -->
 
     <!-- Button to navigate to page 2 -->
-    <a href="/" class="btn btn-to-page2">Go to see results</a>
+    <a href="/" class="btn btn-to-page2">se dine resultater</a>
   </form>
 
 </div>
