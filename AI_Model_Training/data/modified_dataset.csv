@@ -1,0 +1,1801 @@
+Gender,Age,Type of Injury,Area,Type of Vehicle,Incidents
+Mænd,0-17 år,Dræbte,Region Hovedstaden,Almindelig personbil,2
+Mænd,0-17 år,Dræbte,Region Hovedstaden,Taxi,0
+Mænd,0-17 år,Dræbte,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Mænd,0-17 år,Dræbte,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Mænd,0-17 år,Dræbte,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Mænd,0-17 år,Dræbte,Region Hovedstaden,Bus,0
+Mænd,0-17 år,Dræbte,Region Hovedstaden,Motorcykel,0
+Mænd,0-17 år,Dræbte,Region Hovedstaden,Knallert,0
+Mænd,0-17 år,Dræbte,Region Hovedstaden,Knallert,1
+Mænd,0-17 år,Dræbte,Region Hovedstaden,Cykel,3
+Mænd,0-17 år,Dræbte,Region Hovedstaden,Fodgænger,1
+Mænd,0-17 år,Dræbte,Region Hovedstaden,Andre,0
+Mænd,0-17 år,Dræbte,Region Sjælland,Almindelig personbil,1
+Mænd,0-17 år,Dræbte,Region Sjælland,Taxi,0
+Mænd,0-17 år,Dræbte,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,0-17 år,Dræbte,Region Sjælland,Varebil 0-3.500 kg.,0
+Mænd,0-17 år,Dræbte,Region Sjælland,Lastbil over 3.500 kg.,0
+Mænd,0-17 år,Dræbte,Region Sjælland,Bus,0
+Mænd,0-17 år,Dræbte,Region Sjælland,Motorcykel,0
+Mænd,0-17 år,Dræbte,Region Sjælland,Knallert,0
+Mænd,0-17 år,Dræbte,Region Sjælland,Knallert,0
+Mænd,0-17 år,Dræbte,Region Sjælland,Cykel,0
+Mænd,0-17 år,Dræbte,Region Sjælland,Fodgænger,1
+Mænd,0-17 år,Dræbte,Region Sjælland,Andre,0
+Mænd,0-17 år,Dræbte,Region Syddanmark,Almindelig personbil,2
+Mænd,0-17 år,Dræbte,Region Syddanmark,Taxi,0
+Mænd,0-17 år,Dræbte,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Mænd,0-17 år,Dræbte,Region Syddanmark,Varebil 0-3.500 kg.,0
+Mænd,0-17 år,Dræbte,Region Syddanmark,Lastbil over 3.500 kg.,0
+Mænd,0-17 år,Dræbte,Region Syddanmark,Bus,0
+Mænd,0-17 år,Dræbte,Region Syddanmark,Motorcykel,0
+Mænd,0-17 år,Dræbte,Region Syddanmark,Knallert,0
+Mænd,0-17 år,Dræbte,Region Syddanmark,Knallert,1
+Mænd,0-17 år,Dræbte,Region Syddanmark,Cykel,0
+Mænd,0-17 år,Dræbte,Region Syddanmark,Fodgænger,1
+Mænd,0-17 år,Dræbte,Region Syddanmark,Andre,0
+Mænd,0-17 år,Dræbte,Region Midtjylland,Almindelig personbil,4
+Mænd,0-17 år,Dræbte,Region Midtjylland,Taxi,0
+Mænd,0-17 år,Dræbte,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,0-17 år,Dræbte,Region Midtjylland,Varebil 0-3.500 kg.,0
+Mænd,0-17 år,Dræbte,Region Midtjylland,Lastbil over 3.500 kg.,0
+Mænd,0-17 år,Dræbte,Region Midtjylland,Bus,0
+Mænd,0-17 år,Dræbte,Region Midtjylland,Motorcykel,1
+Mænd,0-17 år,Dræbte,Region Midtjylland,Knallert,0
+Mænd,0-17 år,Dræbte,Region Midtjylland,Knallert,1
+Mænd,0-17 år,Dræbte,Region Midtjylland,Cykel,0
+Mænd,0-17 år,Dræbte,Region Midtjylland,Fodgænger,0
+Mænd,0-17 år,Dræbte,Region Midtjylland,Andre,0
+Mænd,0-17 år,Dræbte,Region Nordjylland,Almindelig personbil,1
+Mænd,0-17 år,Dræbte,Region Nordjylland,Taxi,0
+Mænd,0-17 år,Dræbte,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,0-17 år,Dræbte,Region Nordjylland,Varebil 0-3.500 kg.,0
+Mænd,0-17 år,Dræbte,Region Nordjylland,Lastbil over 3.500 kg.,0
+Mænd,0-17 år,Dræbte,Region Nordjylland,Bus,0
+Mænd,0-17 år,Dræbte,Region Nordjylland,Motorcykel,0
+Mænd,0-17 år,Dræbte,Region Nordjylland,Knallert,0
+Mænd,0-17 år,Dræbte,Region Nordjylland,Knallert,1
+Mænd,0-17 år,Dræbte,Region Nordjylland,Cykel,0
+Mænd,0-17 år,Dræbte,Region Nordjylland,Fodgænger,0
+Mænd,0-17 år,Dræbte,Region Nordjylland,Andre,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Almindelig personbil,10
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Taxi,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,1
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Bus,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Motorcykel,1
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,1
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,15
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Cykel,31
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Fodgænger,22
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Andre,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Almindelig personbil,8
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Taxi,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Bus,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Motorcykel,2
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Knallert,2
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Knallert,29
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Cykel,12
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Fodgænger,13
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Andre,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Almindelig personbil,10
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Taxi,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Bus,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Motorcykel,3
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Knallert,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Knallert,34
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Cykel,13
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Fodgænger,11
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Andre,4
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Almindelig personbil,17
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Taxi,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Bus,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Motorcykel,5
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Knallert,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Knallert,38
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Cykel,29
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Fodgænger,13
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Andre,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Almindelig personbil,5
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Taxi,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Bus,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Motorcykel,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Knallert,0
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Knallert,22
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Cykel,7
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Fodgænger,6
+Mænd,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Andre,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Almindelig personbil,8
+Mænd,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Taxi,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Bus,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Motorcykel,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Knallert,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Knallert,4
+Mænd,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Cykel,13
+Mænd,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Fodgænger,14
+Mænd,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Andre,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Sjælland,Almindelig personbil,8
+Mænd,0-17 år,Lettere tilskadekomne,Region Sjælland,Taxi,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,2
+Mænd,0-17 år,Lettere tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Sjælland,Bus,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Sjælland,Motorcykel,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Sjælland,Knallert,1
+Mænd,0-17 år,Lettere tilskadekomne,Region Sjælland,Knallert,9
+Mænd,0-17 år,Lettere tilskadekomne,Region Sjælland,Cykel,7
+Mænd,0-17 år,Lettere tilskadekomne,Region Sjælland,Fodgænger,2
+Mænd,0-17 år,Lettere tilskadekomne,Region Sjælland,Andre,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Syddanmark,Almindelig personbil,9
+Mænd,0-17 år,Lettere tilskadekomne,Region Syddanmark,Taxi,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Syddanmark,Bus,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Syddanmark,Motorcykel,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Syddanmark,Knallert,1
+Mænd,0-17 år,Lettere tilskadekomne,Region Syddanmark,Knallert,8
+Mænd,0-17 år,Lettere tilskadekomne,Region Syddanmark,Cykel,9
+Mænd,0-17 år,Lettere tilskadekomne,Region Syddanmark,Fodgænger,6
+Mænd,0-17 år,Lettere tilskadekomne,Region Syddanmark,Andre,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Midtjylland,Almindelig personbil,14
+Mænd,0-17 år,Lettere tilskadekomne,Region Midtjylland,Taxi,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Midtjylland,Bus,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Midtjylland,Motorcykel,2
+Mænd,0-17 år,Lettere tilskadekomne,Region Midtjylland,Knallert,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Midtjylland,Knallert,9
+Mænd,0-17 år,Lettere tilskadekomne,Region Midtjylland,Cykel,16
+Mænd,0-17 år,Lettere tilskadekomne,Region Midtjylland,Fodgænger,7
+Mænd,0-17 år,Lettere tilskadekomne,Region Midtjylland,Andre,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Nordjylland,Almindelig personbil,17
+Mænd,0-17 år,Lettere tilskadekomne,Region Nordjylland,Taxi,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Nordjylland,Bus,0
+Mænd,0-17 år,Lettere tilskadekomne,Region Nordjylland,Motorcykel,1
+Mænd,0-17 år,Lettere tilskadekomne,Region Nordjylland,Knallert,1
+Mænd,0-17 år,Lettere tilskadekomne,Region Nordjylland,Knallert,8
+Mænd,0-17 år,Lettere tilskadekomne,Region Nordjylland,Cykel,8
+Mænd,0-17 år,Lettere tilskadekomne,Region Nordjylland,Fodgænger,6
+Mænd,0-17 år,Lettere tilskadekomne,Region Nordjylland,Andre,0
+Mænd,18-24 år,Dræbte,Region Hovedstaden,Almindelig personbil,3
+Mænd,18-24 år,Dræbte,Region Hovedstaden,Taxi,0
+Mænd,18-24 år,Dræbte,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Mænd,18-24 år,Dræbte,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Mænd,18-24 år,Dræbte,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Mænd,18-24 år,Dræbte,Region Hovedstaden,Bus,0
+Mænd,18-24 år,Dræbte,Region Hovedstaden,Motorcykel,0
+Mænd,18-24 år,Dræbte,Region Hovedstaden,Knallert,0
+Mænd,18-24 år,Dræbte,Region Hovedstaden,Knallert,0
+Mænd,18-24 år,Dræbte,Region Hovedstaden,Cykel,0
+Mænd,18-24 år,Dræbte,Region Hovedstaden,Fodgænger,2
+Mænd,18-24 år,Dræbte,Region Hovedstaden,Andre,0
+Mænd,18-24 år,Dræbte,Region Sjælland,Almindelig personbil,4
+Mænd,18-24 år,Dræbte,Region Sjælland,Taxi,0
+Mænd,18-24 år,Dræbte,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,18-24 år,Dræbte,Region Sjælland,Varebil 0-3.500 kg.,0
+Mænd,18-24 år,Dræbte,Region Sjælland,Lastbil over 3.500 kg.,0
+Mænd,18-24 år,Dræbte,Region Sjælland,Bus,0
+Mænd,18-24 år,Dræbte,Region Sjælland,Motorcykel,1
+Mænd,18-24 år,Dræbte,Region Sjælland,Knallert,0
+Mænd,18-24 år,Dræbte,Region Sjælland,Knallert,1
+Mænd,18-24 år,Dræbte,Region Sjælland,Cykel,0
+Mænd,18-24 år,Dræbte,Region Sjælland,Fodgænger,0
+Mænd,18-24 år,Dræbte,Region Sjælland,Andre,0
+Mænd,18-24 år,Dræbte,Region Syddanmark,Almindelig personbil,10
+Mænd,18-24 år,Dræbte,Region Syddanmark,Taxi,0
+Mænd,18-24 år,Dræbte,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Mænd,18-24 år,Dræbte,Region Syddanmark,Varebil 0-3.500 kg.,0
+Mænd,18-24 år,Dræbte,Region Syddanmark,Lastbil over 3.500 kg.,0
+Mænd,18-24 år,Dræbte,Region Syddanmark,Bus,0
+Mænd,18-24 år,Dræbte,Region Syddanmark,Motorcykel,3
+Mænd,18-24 år,Dræbte,Region Syddanmark,Knallert,0
+Mænd,18-24 år,Dræbte,Region Syddanmark,Knallert,0
+Mænd,18-24 år,Dræbte,Region Syddanmark,Cykel,0
+Mænd,18-24 år,Dræbte,Region Syddanmark,Fodgænger,1
+Mænd,18-24 år,Dræbte,Region Syddanmark,Andre,0
+Mænd,18-24 år,Dræbte,Region Midtjylland,Almindelig personbil,6
+Mænd,18-24 år,Dræbte,Region Midtjylland,Taxi,0
+Mænd,18-24 år,Dræbte,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,18-24 år,Dræbte,Region Midtjylland,Varebil 0-3.500 kg.,1
+Mænd,18-24 år,Dræbte,Region Midtjylland,Lastbil over 3.500 kg.,0
+Mænd,18-24 år,Dræbte,Region Midtjylland,Bus,0
+Mænd,18-24 år,Dræbte,Region Midtjylland,Motorcykel,3
+Mænd,18-24 år,Dræbte,Region Midtjylland,Knallert,0
+Mænd,18-24 år,Dræbte,Region Midtjylland,Knallert,0
+Mænd,18-24 år,Dræbte,Region Midtjylland,Cykel,1
+Mænd,18-24 år,Dræbte,Region Midtjylland,Fodgænger,0
+Mænd,18-24 år,Dræbte,Region Midtjylland,Andre,0
+Mænd,18-24 år,Dræbte,Region Nordjylland,Almindelig personbil,6
+Mænd,18-24 år,Dræbte,Region Nordjylland,Taxi,0
+Mænd,18-24 år,Dræbte,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,18-24 år,Dræbte,Region Nordjylland,Varebil 0-3.500 kg.,0
+Mænd,18-24 år,Dræbte,Region Nordjylland,Lastbil over 3.500 kg.,0
+Mænd,18-24 år,Dræbte,Region Nordjylland,Bus,0
+Mænd,18-24 år,Dræbte,Region Nordjylland,Motorcykel,1
+Mænd,18-24 år,Dræbte,Region Nordjylland,Knallert,0
+Mænd,18-24 år,Dræbte,Region Nordjylland,Knallert,0
+Mænd,18-24 år,Dræbte,Region Nordjylland,Cykel,0
+Mænd,18-24 år,Dræbte,Region Nordjylland,Fodgænger,1
+Mænd,18-24 år,Dræbte,Region Nordjylland,Andre,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Almindelig personbil,43
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Taxi,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,1
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,2
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Bus,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Motorcykel,25
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,2
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Cykel,51
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Fodgænger,19
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Andre,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Almindelig personbil,36
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Taxi,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,5
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Bus,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Motorcykel,13
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Knallert,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Knallert,8
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Cykel,11
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Fodgænger,1
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Andre,1
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Almindelig personbil,41
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Taxi,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,4
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,1
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Bus,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Motorcykel,9
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Knallert,2
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Knallert,6
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Cykel,12
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Fodgænger,5
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Andre,1
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Almindelig personbil,68
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Taxi,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,1
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,1
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Bus,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Motorcykel,17
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Knallert,2
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Knallert,7
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Cykel,22
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Fodgænger,3
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Andre,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Almindelig personbil,40
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Taxi,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,1
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Bus,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Motorcykel,10
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Knallert,0
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Knallert,4
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Cykel,5
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Fodgænger,5
+Mænd,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Andre,3
+Mænd,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Almindelig personbil,39
+Mænd,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Taxi,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,2
+Mænd,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,2
+Mænd,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Bus,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Motorcykel,5
+Mænd,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Knallert,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Knallert,7
+Mænd,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Cykel,19
+Mænd,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Fodgænger,12
+Mænd,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Andre,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Sjælland,Almindelig personbil,26
+Mænd,18-24 år,Lettere tilskadekomne,Region Sjælland,Taxi,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,1
+Mænd,18-24 år,Lettere tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Sjælland,Bus,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Sjælland,Motorcykel,2
+Mænd,18-24 år,Lettere tilskadekomne,Region Sjælland,Knallert,2
+Mænd,18-24 år,Lettere tilskadekomne,Region Sjælland,Knallert,2
+Mænd,18-24 år,Lettere tilskadekomne,Region Sjælland,Cykel,5
+Mænd,18-24 år,Lettere tilskadekomne,Region Sjælland,Fodgænger,2
+Mænd,18-24 år,Lettere tilskadekomne,Region Sjælland,Andre,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Syddanmark,Almindelig personbil,41
+Mænd,18-24 år,Lettere tilskadekomne,Region Syddanmark,Taxi,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,1
+Mænd,18-24 år,Lettere tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,1
+Mænd,18-24 år,Lettere tilskadekomne,Region Syddanmark,Bus,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Syddanmark,Motorcykel,3
+Mænd,18-24 år,Lettere tilskadekomne,Region Syddanmark,Knallert,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Syddanmark,Knallert,4
+Mænd,18-24 år,Lettere tilskadekomne,Region Syddanmark,Cykel,7
+Mænd,18-24 år,Lettere tilskadekomne,Region Syddanmark,Fodgænger,3
+Mænd,18-24 år,Lettere tilskadekomne,Region Syddanmark,Andre,1
+Mænd,18-24 år,Lettere tilskadekomne,Region Midtjylland,Almindelig personbil,62
+Mænd,18-24 år,Lettere tilskadekomne,Region Midtjylland,Taxi,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,4
+Mænd,18-24 år,Lettere tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Midtjylland,Bus,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Midtjylland,Motorcykel,3
+Mænd,18-24 år,Lettere tilskadekomne,Region Midtjylland,Knallert,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Midtjylland,Knallert,6
+Mænd,18-24 år,Lettere tilskadekomne,Region Midtjylland,Cykel,12
+Mænd,18-24 år,Lettere tilskadekomne,Region Midtjylland,Fodgænger,6
+Mænd,18-24 år,Lettere tilskadekomne,Region Midtjylland,Andre,1
+Mænd,18-24 år,Lettere tilskadekomne,Region Nordjylland,Almindelig personbil,59
+Mænd,18-24 år,Lettere tilskadekomne,Region Nordjylland,Taxi,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,4
+Mænd,18-24 år,Lettere tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,1
+Mænd,18-24 år,Lettere tilskadekomne,Region Nordjylland,Bus,1
+Mænd,18-24 år,Lettere tilskadekomne,Region Nordjylland,Motorcykel,2
+Mænd,18-24 år,Lettere tilskadekomne,Region Nordjylland,Knallert,0
+Mænd,18-24 år,Lettere tilskadekomne,Region Nordjylland,Knallert,8
+Mænd,18-24 år,Lettere tilskadekomne,Region Nordjylland,Cykel,7
+Mænd,18-24 år,Lettere tilskadekomne,Region Nordjylland,Fodgænger,2
+Mænd,18-24 år,Lettere tilskadekomne,Region Nordjylland,Andre,0
+Mænd,25-44 år,Dræbte,Region Hovedstaden,Almindelig personbil,1
+Mænd,25-44 år,Dræbte,Region Hovedstaden,Taxi,0
+Mænd,25-44 år,Dræbte,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Mænd,25-44 år,Dræbte,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Mænd,25-44 år,Dræbte,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Mænd,25-44 år,Dræbte,Region Hovedstaden,Bus,0
+Mænd,25-44 år,Dræbte,Region Hovedstaden,Motorcykel,4
+Mænd,25-44 år,Dræbte,Region Hovedstaden,Knallert,1
+Mænd,25-44 år,Dræbte,Region Hovedstaden,Knallert,0
+Mænd,25-44 år,Dræbte,Region Hovedstaden,Cykel,3
+Mænd,25-44 år,Dræbte,Region Hovedstaden,Fodgænger,2
+Mænd,25-44 år,Dræbte,Region Hovedstaden,Andre,0
+Mænd,25-44 år,Dræbte,Region Sjælland,Almindelig personbil,6
+Mænd,25-44 år,Dræbte,Region Sjælland,Taxi,0
+Mænd,25-44 år,Dræbte,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,25-44 år,Dræbte,Region Sjælland,Varebil 0-3.500 kg.,3
+Mænd,25-44 år,Dræbte,Region Sjælland,Lastbil over 3.500 kg.,0
+Mænd,25-44 år,Dræbte,Region Sjælland,Bus,0
+Mænd,25-44 år,Dræbte,Region Sjælland,Motorcykel,1
+Mænd,25-44 år,Dræbte,Region Sjælland,Knallert,0
+Mænd,25-44 år,Dræbte,Region Sjælland,Knallert,0
+Mænd,25-44 år,Dræbte,Region Sjælland,Cykel,0
+Mænd,25-44 år,Dræbte,Region Sjælland,Fodgænger,5
+Mænd,25-44 år,Dræbte,Region Sjælland,Andre,0
+Mænd,25-44 år,Dræbte,Region Syddanmark,Almindelig personbil,10
+Mænd,25-44 år,Dræbte,Region Syddanmark,Taxi,0
+Mænd,25-44 år,Dræbte,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Mænd,25-44 år,Dræbte,Region Syddanmark,Varebil 0-3.500 kg.,4
+Mænd,25-44 år,Dræbte,Region Syddanmark,Lastbil over 3.500 kg.,1
+Mænd,25-44 år,Dræbte,Region Syddanmark,Bus,0
+Mænd,25-44 år,Dræbte,Region Syddanmark,Motorcykel,3
+Mænd,25-44 år,Dræbte,Region Syddanmark,Knallert,0
+Mænd,25-44 år,Dræbte,Region Syddanmark,Knallert,1
+Mænd,25-44 år,Dræbte,Region Syddanmark,Cykel,1
+Mænd,25-44 år,Dræbte,Region Syddanmark,Fodgænger,0
+Mænd,25-44 år,Dræbte,Region Syddanmark,Andre,0
+Mænd,25-44 år,Dræbte,Region Midtjylland,Almindelig personbil,9
+Mænd,25-44 år,Dræbte,Region Midtjylland,Taxi,0
+Mænd,25-44 år,Dræbte,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,25-44 år,Dræbte,Region Midtjylland,Varebil 0-3.500 kg.,0
+Mænd,25-44 år,Dræbte,Region Midtjylland,Lastbil over 3.500 kg.,0
+Mænd,25-44 år,Dræbte,Region Midtjylland,Bus,0
+Mænd,25-44 år,Dræbte,Region Midtjylland,Motorcykel,5
+Mænd,25-44 år,Dræbte,Region Midtjylland,Knallert,0
+Mænd,25-44 år,Dræbte,Region Midtjylland,Knallert,2
+Mænd,25-44 år,Dræbte,Region Midtjylland,Cykel,0
+Mænd,25-44 år,Dræbte,Region Midtjylland,Fodgænger,3
+Mænd,25-44 år,Dræbte,Region Midtjylland,Andre,0
+Mænd,25-44 år,Dræbte,Region Nordjylland,Almindelig personbil,3
+Mænd,25-44 år,Dræbte,Region Nordjylland,Taxi,0
+Mænd,25-44 år,Dræbte,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,25-44 år,Dræbte,Region Nordjylland,Varebil 0-3.500 kg.,1
+Mænd,25-44 år,Dræbte,Region Nordjylland,Lastbil over 3.500 kg.,1
+Mænd,25-44 år,Dræbte,Region Nordjylland,Bus,0
+Mænd,25-44 år,Dræbte,Region Nordjylland,Motorcykel,2
+Mænd,25-44 år,Dræbte,Region Nordjylland,Knallert,0
+Mænd,25-44 år,Dræbte,Region Nordjylland,Knallert,0
+Mænd,25-44 år,Dræbte,Region Nordjylland,Cykel,1
+Mænd,25-44 år,Dræbte,Region Nordjylland,Fodgænger,1
+Mænd,25-44 år,Dræbte,Region Nordjylland,Andre,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Almindelig personbil,47
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Taxi,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,5
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,2
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Bus,1
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Motorcykel,30
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,5
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,17
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Cykel,99
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Fodgænger,23
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Andre,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Almindelig personbil,52
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Taxi,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,9
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,2
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Bus,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Motorcykel,35
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Knallert,1
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Knallert,7
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Cykel,12
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Fodgænger,7
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Andre,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Almindelig personbil,52
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Taxi,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,5
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,2
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Bus,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Motorcykel,36
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Knallert,5
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Knallert,29
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Cykel,43
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Fodgænger,13
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Andre,1
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Almindelig personbil,63
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Taxi,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,1
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,4
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,3
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Bus,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Motorcykel,40
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Knallert,2
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Knallert,22
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Cykel,37
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Fodgænger,10
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Andre,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Almindelig personbil,39
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Taxi,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,5
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Bus,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Motorcykel,22
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Knallert,0
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Knallert,16
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Cykel,21
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Fodgænger,9
+Mænd,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Andre,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Almindelig personbil,41
+Mænd,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Taxi,1
+Mænd,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Bus,1
+Mænd,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Motorcykel,8
+Mænd,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Knallert,2
+Mænd,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Knallert,6
+Mænd,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Cykel,78
+Mænd,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Fodgænger,14
+Mænd,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Andre,1
+Mænd,25-44 år,Lettere tilskadekomne,Region Sjælland,Almindelig personbil,29
+Mænd,25-44 år,Lettere tilskadekomne,Region Sjælland,Taxi,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,3
+Mænd,25-44 år,Lettere tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,2
+Mænd,25-44 år,Lettere tilskadekomne,Region Sjælland,Bus,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Sjælland,Motorcykel,9
+Mænd,25-44 år,Lettere tilskadekomne,Region Sjælland,Knallert,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Sjælland,Knallert,4
+Mænd,25-44 år,Lettere tilskadekomne,Region Sjælland,Cykel,3
+Mænd,25-44 år,Lettere tilskadekomne,Region Sjælland,Fodgænger,5
+Mænd,25-44 år,Lettere tilskadekomne,Region Sjælland,Andre,2
+Mænd,25-44 år,Lettere tilskadekomne,Region Syddanmark,Almindelig personbil,43
+Mænd,25-44 år,Lettere tilskadekomne,Region Syddanmark,Taxi,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,1
+Mænd,25-44 år,Lettere tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,2
+Mænd,25-44 år,Lettere tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,4
+Mænd,25-44 år,Lettere tilskadekomne,Region Syddanmark,Bus,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Syddanmark,Motorcykel,2
+Mænd,25-44 år,Lettere tilskadekomne,Region Syddanmark,Knallert,1
+Mænd,25-44 år,Lettere tilskadekomne,Region Syddanmark,Knallert,7
+Mænd,25-44 år,Lettere tilskadekomne,Region Syddanmark,Cykel,13
+Mænd,25-44 år,Lettere tilskadekomne,Region Syddanmark,Fodgænger,11
+Mænd,25-44 år,Lettere tilskadekomne,Region Syddanmark,Andre,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Midtjylland,Almindelig personbil,77
+Mænd,25-44 år,Lettere tilskadekomne,Region Midtjylland,Taxi,2
+Mænd,25-44 år,Lettere tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,4
+Mænd,25-44 år,Lettere tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Midtjylland,Bus,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Midtjylland,Motorcykel,3
+Mænd,25-44 år,Lettere tilskadekomne,Region Midtjylland,Knallert,2
+Mænd,25-44 år,Lettere tilskadekomne,Region Midtjylland,Knallert,9
+Mænd,25-44 år,Lettere tilskadekomne,Region Midtjylland,Cykel,27
+Mænd,25-44 år,Lettere tilskadekomne,Region Midtjylland,Fodgænger,5
+Mænd,25-44 år,Lettere tilskadekomne,Region Midtjylland,Andre,2
+Mænd,25-44 år,Lettere tilskadekomne,Region Nordjylland,Almindelig personbil,62
+Mænd,25-44 år,Lettere tilskadekomne,Region Nordjylland,Taxi,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,6
+Mænd,25-44 år,Lettere tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,2
+Mænd,25-44 år,Lettere tilskadekomne,Region Nordjylland,Bus,0
+Mænd,25-44 år,Lettere tilskadekomne,Region Nordjylland,Motorcykel,7
+Mænd,25-44 år,Lettere tilskadekomne,Region Nordjylland,Knallert,2
+Mænd,25-44 år,Lettere tilskadekomne,Region Nordjylland,Knallert,9
+Mænd,25-44 år,Lettere tilskadekomne,Region Nordjylland,Cykel,17
+Mænd,25-44 år,Lettere tilskadekomne,Region Nordjylland,Fodgænger,7
+Mænd,25-44 år,Lettere tilskadekomne,Region Nordjylland,Andre,0
+Mænd,45-64 år,Dræbte,Region Hovedstaden,Almindelig personbil,3
+Mænd,45-64 år,Dræbte,Region Hovedstaden,Taxi,0
+Mænd,45-64 år,Dræbte,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Mænd,45-64 år,Dræbte,Region Hovedstaden,Varebil 0-3.500 kg.,1
+Mænd,45-64 år,Dræbte,Region Hovedstaden,Lastbil over 3.500 kg.,1
+Mænd,45-64 år,Dræbte,Region Hovedstaden,Bus,0
+Mænd,45-64 år,Dræbte,Region Hovedstaden,Motorcykel,1
+Mænd,45-64 år,Dræbte,Region Hovedstaden,Knallert,2
+Mænd,45-64 år,Dræbte,Region Hovedstaden,Knallert,0
+Mænd,45-64 år,Dræbte,Region Hovedstaden,Cykel,2
+Mænd,45-64 år,Dræbte,Region Hovedstaden,Fodgænger,2
+Mænd,45-64 år,Dræbte,Region Hovedstaden,Andre,0
+Mænd,45-64 år,Dræbte,Region Sjælland,Almindelig personbil,6
+Mænd,45-64 år,Dræbte,Region Sjælland,Taxi,0
+Mænd,45-64 år,Dræbte,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,45-64 år,Dræbte,Region Sjælland,Varebil 0-3.500 kg.,0
+Mænd,45-64 år,Dræbte,Region Sjælland,Lastbil over 3.500 kg.,0
+Mænd,45-64 år,Dræbte,Region Sjælland,Bus,0
+Mænd,45-64 år,Dræbte,Region Sjælland,Motorcykel,2
+Mænd,45-64 år,Dræbte,Region Sjælland,Knallert,0
+Mænd,45-64 år,Dræbte,Region Sjælland,Knallert,0
+Mænd,45-64 år,Dræbte,Region Sjælland,Cykel,1
+Mænd,45-64 år,Dræbte,Region Sjælland,Fodgænger,0
+Mænd,45-64 år,Dræbte,Region Sjælland,Andre,0
+Mænd,45-64 år,Dræbte,Region Syddanmark,Almindelig personbil,11
+Mænd,45-64 år,Dræbte,Region Syddanmark,Taxi,0
+Mænd,45-64 år,Dræbte,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Mænd,45-64 år,Dræbte,Region Syddanmark,Varebil 0-3.500 kg.,4
+Mænd,45-64 år,Dræbte,Region Syddanmark,Lastbil over 3.500 kg.,1
+Mænd,45-64 år,Dræbte,Region Syddanmark,Bus,0
+Mænd,45-64 år,Dræbte,Region Syddanmark,Motorcykel,2
+Mænd,45-64 år,Dræbte,Region Syddanmark,Knallert,0
+Mænd,45-64 år,Dræbte,Region Syddanmark,Knallert,0
+Mænd,45-64 år,Dræbte,Region Syddanmark,Cykel,2
+Mænd,45-64 år,Dræbte,Region Syddanmark,Fodgænger,1
+Mænd,45-64 år,Dræbte,Region Syddanmark,Andre,0
+Mænd,45-64 år,Dræbte,Region Midtjylland,Almindelig personbil,10
+Mænd,45-64 år,Dræbte,Region Midtjylland,Taxi,0
+Mænd,45-64 år,Dræbte,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,45-64 år,Dræbte,Region Midtjylland,Varebil 0-3.500 kg.,2
+Mænd,45-64 år,Dræbte,Region Midtjylland,Lastbil over 3.500 kg.,3
+Mænd,45-64 år,Dræbte,Region Midtjylland,Bus,0
+Mænd,45-64 år,Dræbte,Region Midtjylland,Motorcykel,0
+Mænd,45-64 år,Dræbte,Region Midtjylland,Knallert,0
+Mænd,45-64 år,Dræbte,Region Midtjylland,Knallert,0
+Mænd,45-64 år,Dræbte,Region Midtjylland,Cykel,6
+Mænd,45-64 år,Dræbte,Region Midtjylland,Fodgænger,5
+Mænd,45-64 år,Dræbte,Region Midtjylland,Andre,2
+Mænd,45-64 år,Dræbte,Region Nordjylland,Almindelig personbil,7
+Mænd,45-64 år,Dræbte,Region Nordjylland,Taxi,0
+Mænd,45-64 år,Dræbte,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,45-64 år,Dræbte,Region Nordjylland,Varebil 0-3.500 kg.,0
+Mænd,45-64 år,Dræbte,Region Nordjylland,Lastbil over 3.500 kg.,0
+Mænd,45-64 år,Dræbte,Region Nordjylland,Bus,0
+Mænd,45-64 år,Dræbte,Region Nordjylland,Motorcykel,3
+Mænd,45-64 år,Dræbte,Region Nordjylland,Knallert,0
+Mænd,45-64 år,Dræbte,Region Nordjylland,Knallert,1
+Mænd,45-64 år,Dræbte,Region Nordjylland,Cykel,1
+Mænd,45-64 år,Dræbte,Region Nordjylland,Fodgænger,0
+Mænd,45-64 år,Dræbte,Region Nordjylland,Andre,1
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Almindelig personbil,47
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Taxi,2
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,3
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,4
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Bus,0
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Motorcykel,34
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,5
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,18
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Cykel,125
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Fodgænger,24
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Andre,0
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Almindelig personbil,31
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Taxi,0
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,6
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,4
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Bus,0
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Motorcykel,38
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Knallert,6
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Knallert,16
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Cykel,32
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Fodgænger,13
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Andre,4
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Almindelig personbil,45
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Taxi,2
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,4
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,3
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Bus,0
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Motorcykel,39
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Knallert,6
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Knallert,26
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Cykel,55
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Fodgænger,12
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Andre,2
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Almindelig personbil,57
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Taxi,1
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,7
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,4
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Bus,0
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Motorcykel,29
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Knallert,2
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Knallert,17
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Cykel,53
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Fodgænger,13
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Andre,1
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Almindelig personbil,23
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Taxi,0
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,5
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,1
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Bus,2
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Motorcykel,16
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Knallert,1
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Knallert,17
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Cykel,29
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Fodgænger,7
+Mænd,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Andre,2
+Mænd,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Almindelig personbil,34
+Mænd,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Taxi,1
+Mænd,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Mænd,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,3
+Mænd,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,1
+Mænd,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Bus,1
+Mænd,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Motorcykel,5
+Mænd,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Knallert,0
+Mænd,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Knallert,8
+Mænd,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Cykel,57
+Mænd,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Fodgænger,19
+Mænd,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Andre,1
+Mænd,45-64 år,Lettere tilskadekomne,Region Sjælland,Almindelig personbil,16
+Mænd,45-64 år,Lettere tilskadekomne,Region Sjælland,Taxi,0
+Mænd,45-64 år,Lettere tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,45-64 år,Lettere tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,4
+Mænd,45-64 år,Lettere tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,2
+Mænd,45-64 år,Lettere tilskadekomne,Region Sjælland,Bus,0
+Mænd,45-64 år,Lettere tilskadekomne,Region Sjælland,Motorcykel,4
+Mænd,45-64 år,Lettere tilskadekomne,Region Sjælland,Knallert,1
+Mænd,45-64 år,Lettere tilskadekomne,Region Sjælland,Knallert,2
+Mænd,45-64 år,Lettere tilskadekomne,Region Sjælland,Cykel,20
+Mænd,45-64 år,Lettere tilskadekomne,Region Sjælland,Fodgænger,4
+Mænd,45-64 år,Lettere tilskadekomne,Region Sjælland,Andre,1
+Mænd,45-64 år,Lettere tilskadekomne,Region Syddanmark,Almindelig personbil,28
+Mænd,45-64 år,Lettere tilskadekomne,Region Syddanmark,Taxi,0
+Mænd,45-64 år,Lettere tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,1
+Mænd,45-64 år,Lettere tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,2
+Mænd,45-64 år,Lettere tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,3
+Mænd,45-64 år,Lettere tilskadekomne,Region Syddanmark,Bus,0
+Mænd,45-64 år,Lettere tilskadekomne,Region Syddanmark,Motorcykel,5
+Mænd,45-64 år,Lettere tilskadekomne,Region Syddanmark,Knallert,1
+Mænd,45-64 år,Lettere tilskadekomne,Region Syddanmark,Knallert,7
+Mænd,45-64 år,Lettere tilskadekomne,Region Syddanmark,Cykel,15
+Mænd,45-64 år,Lettere tilskadekomne,Region Syddanmark,Fodgænger,6
+Mænd,45-64 år,Lettere tilskadekomne,Region Syddanmark,Andre,1
+Mænd,45-64 år,Lettere tilskadekomne,Region Midtjylland,Almindelig personbil,46
+Mænd,45-64 år,Lettere tilskadekomne,Region Midtjylland,Taxi,1
+Mænd,45-64 år,Lettere tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,45-64 år,Lettere tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,6
+Mænd,45-64 år,Lettere tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,1
+Mænd,45-64 år,Lettere tilskadekomne,Region Midtjylland,Bus,0
+Mænd,45-64 år,Lettere tilskadekomne,Region Midtjylland,Motorcykel,4
+Mænd,45-64 år,Lettere tilskadekomne,Region Midtjylland,Knallert,1
+Mænd,45-64 år,Lettere tilskadekomne,Region Midtjylland,Knallert,7
+Mænd,45-64 år,Lettere tilskadekomne,Region Midtjylland,Cykel,29
+Mænd,45-64 år,Lettere tilskadekomne,Region Midtjylland,Fodgænger,8
+Mænd,45-64 år,Lettere tilskadekomne,Region Midtjylland,Andre,0
+Mænd,45-64 år,Lettere tilskadekomne,Region Nordjylland,Almindelig personbil,39
+Mænd,45-64 år,Lettere tilskadekomne,Region Nordjylland,Taxi,0
+Mænd,45-64 år,Lettere tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,45-64 år,Lettere tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,2
+Mænd,45-64 år,Lettere tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,2
+Mænd,45-64 år,Lettere tilskadekomne,Region Nordjylland,Bus,1
+Mænd,45-64 år,Lettere tilskadekomne,Region Nordjylland,Motorcykel,7
+Mænd,45-64 år,Lettere tilskadekomne,Region Nordjylland,Knallert,2
+Mænd,45-64 år,Lettere tilskadekomne,Region Nordjylland,Knallert,13
+Mænd,45-64 år,Lettere tilskadekomne,Region Nordjylland,Cykel,11
+Mænd,45-64 år,Lettere tilskadekomne,Region Nordjylland,Fodgænger,5
+Mænd,45-64 år,Lettere tilskadekomne,Region Nordjylland,Andre,1
+Mænd,65 år og derover,Dræbte,Region Hovedstaden,Almindelig personbil,4
+Mænd,65 år og derover,Dræbte,Region Hovedstaden,Taxi,0
+Mænd,65 år og derover,Dræbte,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Mænd,65 år og derover,Dræbte,Region Hovedstaden,Varebil 0-3.500 kg.,2
+Mænd,65 år og derover,Dræbte,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Mænd,65 år og derover,Dræbte,Region Hovedstaden,Bus,0
+Mænd,65 år og derover,Dræbte,Region Hovedstaden,Motorcykel,0
+Mænd,65 år og derover,Dræbte,Region Hovedstaden,Knallert,0
+Mænd,65 år og derover,Dræbte,Region Hovedstaden,Knallert,0
+Mænd,65 år og derover,Dræbte,Region Hovedstaden,Cykel,7
+Mænd,65 år og derover,Dræbte,Region Hovedstaden,Fodgænger,3
+Mænd,65 år og derover,Dræbte,Region Hovedstaden,Andre,1
+Mænd,65 år og derover,Dræbte,Region Sjælland,Almindelig personbil,9
+Mænd,65 år og derover,Dræbte,Region Sjælland,Taxi,0
+Mænd,65 år og derover,Dræbte,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,65 år og derover,Dræbte,Region Sjælland,Varebil 0-3.500 kg.,0
+Mænd,65 år og derover,Dræbte,Region Sjælland,Lastbil over 3.500 kg.,0
+Mænd,65 år og derover,Dræbte,Region Sjælland,Bus,0
+Mænd,65 år og derover,Dræbte,Region Sjælland,Motorcykel,2
+Mænd,65 år og derover,Dræbte,Region Sjælland,Knallert,0
+Mænd,65 år og derover,Dræbte,Region Sjælland,Knallert,2
+Mænd,65 år og derover,Dræbte,Region Sjælland,Cykel,6
+Mænd,65 år og derover,Dræbte,Region Sjælland,Fodgænger,1
+Mænd,65 år og derover,Dræbte,Region Sjælland,Andre,1
+Mænd,65 år og derover,Dræbte,Region Syddanmark,Almindelig personbil,20
+Mænd,65 år og derover,Dræbte,Region Syddanmark,Taxi,0
+Mænd,65 år og derover,Dræbte,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Mænd,65 år og derover,Dræbte,Region Syddanmark,Varebil 0-3.500 kg.,1
+Mænd,65 år og derover,Dræbte,Region Syddanmark,Lastbil over 3.500 kg.,0
+Mænd,65 år og derover,Dræbte,Region Syddanmark,Bus,0
+Mænd,65 år og derover,Dræbte,Region Syddanmark,Motorcykel,1
+Mænd,65 år og derover,Dræbte,Region Syddanmark,Knallert,1
+Mænd,65 år og derover,Dræbte,Region Syddanmark,Knallert,2
+Mænd,65 år og derover,Dræbte,Region Syddanmark,Cykel,7
+Mænd,65 år og derover,Dræbte,Region Syddanmark,Fodgænger,3
+Mænd,65 år og derover,Dræbte,Region Syddanmark,Andre,0
+Mænd,65 år og derover,Dræbte,Region Midtjylland,Almindelig personbil,14
+Mænd,65 år og derover,Dræbte,Region Midtjylland,Taxi,0
+Mænd,65 år og derover,Dræbte,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,65 år og derover,Dræbte,Region Midtjylland,Varebil 0-3.500 kg.,4
+Mænd,65 år og derover,Dræbte,Region Midtjylland,Lastbil over 3.500 kg.,0
+Mænd,65 år og derover,Dræbte,Region Midtjylland,Bus,0
+Mænd,65 år og derover,Dræbte,Region Midtjylland,Motorcykel,0
+Mænd,65 år og derover,Dræbte,Region Midtjylland,Knallert,0
+Mænd,65 år og derover,Dræbte,Region Midtjylland,Knallert,0
+Mænd,65 år og derover,Dræbte,Region Midtjylland,Cykel,6
+Mænd,65 år og derover,Dræbte,Region Midtjylland,Fodgænger,6
+Mænd,65 år og derover,Dræbte,Region Midtjylland,Andre,0
+Mænd,65 år og derover,Dræbte,Region Nordjylland,Almindelig personbil,2
+Mænd,65 år og derover,Dræbte,Region Nordjylland,Taxi,0
+Mænd,65 år og derover,Dræbte,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,65 år og derover,Dræbte,Region Nordjylland,Varebil 0-3.500 kg.,0
+Mænd,65 år og derover,Dræbte,Region Nordjylland,Lastbil over 3.500 kg.,0
+Mænd,65 år og derover,Dræbte,Region Nordjylland,Bus,0
+Mænd,65 år og derover,Dræbte,Region Nordjylland,Motorcykel,0
+Mænd,65 år og derover,Dræbte,Region Nordjylland,Knallert,0
+Mænd,65 år og derover,Dræbte,Region Nordjylland,Knallert,0
+Mænd,65 år og derover,Dræbte,Region Nordjylland,Cykel,3
+Mænd,65 år og derover,Dræbte,Region Nordjylland,Fodgænger,2
+Mænd,65 år og derover,Dræbte,Region Nordjylland,Andre,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Almindelig personbil,20
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Taxi,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,1
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Bus,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Motorcykel,3
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,1
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,2
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Cykel,53
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Fodgænger,21
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Andre,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Almindelig personbil,36
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Taxi,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,1
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,1
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Bus,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Motorcykel,14
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Knallert,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Knallert,4
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Cykel,25
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Fodgænger,17
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Andre,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Almindelig personbil,27
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Taxi,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,1
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Bus,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Motorcykel,9
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Knallert,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Knallert,7
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Cykel,52
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Fodgænger,13
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Andre,3
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Almindelig personbil,40
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Taxi,1
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,1
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,1
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Bus,2
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Motorcykel,13
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Knallert,2
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Knallert,7
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Cykel,48
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Fodgænger,14
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Andre,1
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Almindelig personbil,28
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Taxi,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,4
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Bus,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Motorcykel,6
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Knallert,0
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Knallert,6
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Cykel,23
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Fodgænger,8
+Mænd,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Andre,1
+Mænd,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Almindelig personbil,13
+Mænd,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Taxi,1
+Mænd,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Bus,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Motorcykel,1
+Mænd,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Knallert,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Knallert,3
+Mænd,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Cykel,22
+Mænd,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Fodgænger,7
+Mænd,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Andre,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Sjælland,Almindelig personbil,12
+Mænd,65 år og derover,Lettere tilskadekomne,Region Sjælland,Taxi,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Sjælland,Bus,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Sjælland,Motorcykel,1
+Mænd,65 år og derover,Lettere tilskadekomne,Region Sjælland,Knallert,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Sjælland,Knallert,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Sjælland,Cykel,7
+Mænd,65 år og derover,Lettere tilskadekomne,Region Sjælland,Fodgænger,4
+Mænd,65 år og derover,Lettere tilskadekomne,Region Sjælland,Andre,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Almindelig personbil,18
+Mænd,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Taxi,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,1
+Mænd,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Bus,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Motorcykel,2
+Mænd,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Knallert,1
+Mænd,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Knallert,1
+Mænd,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Cykel,17
+Mænd,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Fodgænger,4
+Mænd,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Andre,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Almindelig personbil,28
+Mænd,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Taxi,1
+Mænd,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,2
+Mænd,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,1
+Mænd,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Bus,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Motorcykel,4
+Mænd,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Knallert,1
+Mænd,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Knallert,1
+Mænd,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Cykel,15
+Mænd,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Fodgænger,7
+Mænd,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Andre,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Almindelig personbil,19
+Mænd,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Taxi,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,3
+Mænd,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Bus,0
+Mænd,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Motorcykel,2
+Mænd,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Knallert,2
+Mænd,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Knallert,3
+Mænd,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Cykel,11
+Mænd,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Fodgænger,4
+Mænd,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Andre,0
+Kvinder,0-17 år,Dræbte,Region Hovedstaden,Almindelig personbil,0
+Kvinder,0-17 år,Dræbte,Region Hovedstaden,Taxi,0
+Kvinder,0-17 år,Dræbte,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,0-17 år,Dræbte,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Kvinder,0-17 år,Dræbte,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Kvinder,0-17 år,Dræbte,Region Hovedstaden,Bus,0
+Kvinder,0-17 år,Dræbte,Region Hovedstaden,Motorcykel,0
+Kvinder,0-17 år,Dræbte,Region Hovedstaden,Knallert,0
+Kvinder,0-17 år,Dræbte,Region Hovedstaden,Knallert,0
+Kvinder,0-17 år,Dræbte,Region Hovedstaden,Cykel,0
+Kvinder,0-17 år,Dræbte,Region Hovedstaden,Fodgænger,2
+Kvinder,0-17 år,Dræbte,Region Hovedstaden,Andre,0
+Kvinder,0-17 år,Dræbte,Region Sjælland,Almindelig personbil,0
+Kvinder,0-17 år,Dræbte,Region Sjælland,Taxi,0
+Kvinder,0-17 år,Dræbte,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,0-17 år,Dræbte,Region Sjælland,Varebil 0-3.500 kg.,0
+Kvinder,0-17 år,Dræbte,Region Sjælland,Lastbil over 3.500 kg.,0
+Kvinder,0-17 år,Dræbte,Region Sjælland,Bus,0
+Kvinder,0-17 år,Dræbte,Region Sjælland,Motorcykel,0
+Kvinder,0-17 år,Dræbte,Region Sjælland,Knallert,0
+Kvinder,0-17 år,Dræbte,Region Sjælland,Knallert,0
+Kvinder,0-17 år,Dræbte,Region Sjælland,Cykel,2
+Kvinder,0-17 år,Dræbte,Region Sjælland,Fodgænger,1
+Kvinder,0-17 år,Dræbte,Region Sjælland,Andre,0
+Kvinder,0-17 år,Dræbte,Region Syddanmark,Almindelig personbil,1
+Kvinder,0-17 år,Dræbte,Region Syddanmark,Taxi,0
+Kvinder,0-17 år,Dræbte,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,0-17 år,Dræbte,Region Syddanmark,Varebil 0-3.500 kg.,0
+Kvinder,0-17 år,Dræbte,Region Syddanmark,Lastbil over 3.500 kg.,0
+Kvinder,0-17 år,Dræbte,Region Syddanmark,Bus,0
+Kvinder,0-17 år,Dræbte,Region Syddanmark,Motorcykel,0
+Kvinder,0-17 år,Dræbte,Region Syddanmark,Knallert,0
+Kvinder,0-17 år,Dræbte,Region Syddanmark,Knallert,1
+Kvinder,0-17 år,Dræbte,Region Syddanmark,Cykel,0
+Kvinder,0-17 år,Dræbte,Region Syddanmark,Fodgænger,1
+Kvinder,0-17 år,Dræbte,Region Syddanmark,Andre,0
+Kvinder,0-17 år,Dræbte,Region Midtjylland,Almindelig personbil,0
+Kvinder,0-17 år,Dræbte,Region Midtjylland,Taxi,0
+Kvinder,0-17 år,Dræbte,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,0-17 år,Dræbte,Region Midtjylland,Varebil 0-3.500 kg.,0
+Kvinder,0-17 år,Dræbte,Region Midtjylland,Lastbil over 3.500 kg.,0
+Kvinder,0-17 år,Dræbte,Region Midtjylland,Bus,0
+Kvinder,0-17 år,Dræbte,Region Midtjylland,Motorcykel,0
+Kvinder,0-17 år,Dræbte,Region Midtjylland,Knallert,0
+Kvinder,0-17 år,Dræbte,Region Midtjylland,Knallert,0
+Kvinder,0-17 år,Dræbte,Region Midtjylland,Cykel,0
+Kvinder,0-17 år,Dræbte,Region Midtjylland,Fodgænger,0
+Kvinder,0-17 år,Dræbte,Region Midtjylland,Andre,0
+Kvinder,0-17 år,Dræbte,Region Nordjylland,Almindelig personbil,0
+Kvinder,0-17 år,Dræbte,Region Nordjylland,Taxi,0
+Kvinder,0-17 år,Dræbte,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,0-17 år,Dræbte,Region Nordjylland,Varebil 0-3.500 kg.,0
+Kvinder,0-17 år,Dræbte,Region Nordjylland,Lastbil over 3.500 kg.,0
+Kvinder,0-17 år,Dræbte,Region Nordjylland,Bus,0
+Kvinder,0-17 år,Dræbte,Region Nordjylland,Motorcykel,0
+Kvinder,0-17 år,Dræbte,Region Nordjylland,Knallert,0
+Kvinder,0-17 år,Dræbte,Region Nordjylland,Knallert,0
+Kvinder,0-17 år,Dræbte,Region Nordjylland,Cykel,0
+Kvinder,0-17 år,Dræbte,Region Nordjylland,Fodgænger,3
+Kvinder,0-17 år,Dræbte,Region Nordjylland,Andre,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Almindelig personbil,16
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Taxi,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Bus,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Motorcykel,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,1
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Cykel,15
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Fodgænger,16
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Hovedstaden,Andre,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Almindelig personbil,9
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Taxi,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Bus,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Motorcykel,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Knallert,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Knallert,2
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Cykel,9
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Fodgænger,8
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Sjælland,Andre,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Almindelig personbil,10
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Taxi,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Bus,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Motorcykel,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Knallert,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Knallert,3
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Cykel,7
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Fodgænger,7
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Syddanmark,Andre,1
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Almindelig personbil,13
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Taxi,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Bus,1
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Motorcykel,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Knallert,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Knallert,2
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Cykel,9
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Fodgænger,13
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Midtjylland,Andre,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Almindelig personbil,3
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Taxi,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Bus,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Motorcykel,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Knallert,0
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Knallert,4
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Cykel,2
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Fodgænger,4
+Kvinder,0-17 år,Alvorligt tilskadekomne,Region Nordjylland,Andre,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Almindelig personbil,11
+Kvinder,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Taxi,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Bus,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Motorcykel,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Knallert,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Knallert,2
+Kvinder,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Cykel,9
+Kvinder,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Fodgænger,8
+Kvinder,0-17 år,Lettere tilskadekomne,Region Hovedstaden,Andre,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Sjælland,Almindelig personbil,8
+Kvinder,0-17 år,Lettere tilskadekomne,Region Sjælland,Taxi,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Sjælland,Bus,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Sjælland,Motorcykel,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Sjælland,Knallert,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Sjælland,Knallert,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Sjælland,Cykel,8
+Kvinder,0-17 år,Lettere tilskadekomne,Region Sjælland,Fodgænger,4
+Kvinder,0-17 år,Lettere tilskadekomne,Region Sjælland,Andre,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Syddanmark,Almindelig personbil,11
+Kvinder,0-17 år,Lettere tilskadekomne,Region Syddanmark,Taxi,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Syddanmark,Bus,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Syddanmark,Motorcykel,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Syddanmark,Knallert,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Syddanmark,Knallert,5
+Kvinder,0-17 år,Lettere tilskadekomne,Region Syddanmark,Cykel,4
+Kvinder,0-17 år,Lettere tilskadekomne,Region Syddanmark,Fodgænger,5
+Kvinder,0-17 år,Lettere tilskadekomne,Region Syddanmark,Andre,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Midtjylland,Almindelig personbil,23
+Kvinder,0-17 år,Lettere tilskadekomne,Region Midtjylland,Taxi,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Midtjylland,Bus,1
+Kvinder,0-17 år,Lettere tilskadekomne,Region Midtjylland,Motorcykel,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Midtjylland,Knallert,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Midtjylland,Knallert,1
+Kvinder,0-17 år,Lettere tilskadekomne,Region Midtjylland,Cykel,4
+Kvinder,0-17 år,Lettere tilskadekomne,Region Midtjylland,Fodgænger,3
+Kvinder,0-17 år,Lettere tilskadekomne,Region Midtjylland,Andre,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Nordjylland,Almindelig personbil,25
+Kvinder,0-17 år,Lettere tilskadekomne,Region Nordjylland,Taxi,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Nordjylland,Bus,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Nordjylland,Motorcykel,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Nordjylland,Knallert,0
+Kvinder,0-17 år,Lettere tilskadekomne,Region Nordjylland,Knallert,3
+Kvinder,0-17 år,Lettere tilskadekomne,Region Nordjylland,Cykel,6
+Kvinder,0-17 år,Lettere tilskadekomne,Region Nordjylland,Fodgænger,3
+Kvinder,0-17 år,Lettere tilskadekomne,Region Nordjylland,Andre,0
+Kvinder,18-24 år,Dræbte,Region Hovedstaden,Almindelig personbil,0
+Kvinder,18-24 år,Dræbte,Region Hovedstaden,Taxi,0
+Kvinder,18-24 år,Dræbte,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,18-24 år,Dræbte,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Kvinder,18-24 år,Dræbte,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Kvinder,18-24 år,Dræbte,Region Hovedstaden,Bus,0
+Kvinder,18-24 år,Dræbte,Region Hovedstaden,Motorcykel,0
+Kvinder,18-24 år,Dræbte,Region Hovedstaden,Knallert,0
+Kvinder,18-24 år,Dræbte,Region Hovedstaden,Knallert,0
+Kvinder,18-24 år,Dræbte,Region Hovedstaden,Cykel,1
+Kvinder,18-24 år,Dræbte,Region Hovedstaden,Fodgænger,0
+Kvinder,18-24 år,Dræbte,Region Hovedstaden,Andre,0
+Kvinder,18-24 år,Dræbte,Region Sjælland,Almindelig personbil,1
+Kvinder,18-24 år,Dræbte,Region Sjælland,Taxi,0
+Kvinder,18-24 år,Dræbte,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,18-24 år,Dræbte,Region Sjælland,Varebil 0-3.500 kg.,0
+Kvinder,18-24 år,Dræbte,Region Sjælland,Lastbil over 3.500 kg.,0
+Kvinder,18-24 år,Dræbte,Region Sjælland,Bus,0
+Kvinder,18-24 år,Dræbte,Region Sjælland,Motorcykel,0
+Kvinder,18-24 år,Dræbte,Region Sjælland,Knallert,0
+Kvinder,18-24 år,Dræbte,Region Sjælland,Knallert,0
+Kvinder,18-24 år,Dræbte,Region Sjælland,Cykel,1
+Kvinder,18-24 år,Dræbte,Region Sjælland,Fodgænger,0
+Kvinder,18-24 år,Dræbte,Region Sjælland,Andre,0
+Kvinder,18-24 år,Dræbte,Region Syddanmark,Almindelig personbil,2
+Kvinder,18-24 år,Dræbte,Region Syddanmark,Taxi,0
+Kvinder,18-24 år,Dræbte,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,18-24 år,Dræbte,Region Syddanmark,Varebil 0-3.500 kg.,0
+Kvinder,18-24 år,Dræbte,Region Syddanmark,Lastbil over 3.500 kg.,0
+Kvinder,18-24 år,Dræbte,Region Syddanmark,Bus,0
+Kvinder,18-24 år,Dræbte,Region Syddanmark,Motorcykel,1
+Kvinder,18-24 år,Dræbte,Region Syddanmark,Knallert,0
+Kvinder,18-24 år,Dræbte,Region Syddanmark,Knallert,0
+Kvinder,18-24 år,Dræbte,Region Syddanmark,Cykel,1
+Kvinder,18-24 år,Dræbte,Region Syddanmark,Fodgænger,0
+Kvinder,18-24 år,Dræbte,Region Syddanmark,Andre,0
+Kvinder,18-24 år,Dræbte,Region Midtjylland,Almindelig personbil,3
+Kvinder,18-24 år,Dræbte,Region Midtjylland,Taxi,0
+Kvinder,18-24 år,Dræbte,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,18-24 år,Dræbte,Region Midtjylland,Varebil 0-3.500 kg.,0
+Kvinder,18-24 år,Dræbte,Region Midtjylland,Lastbil over 3.500 kg.,0
+Kvinder,18-24 år,Dræbte,Region Midtjylland,Bus,0
+Kvinder,18-24 år,Dræbte,Region Midtjylland,Motorcykel,0
+Kvinder,18-24 år,Dræbte,Region Midtjylland,Knallert,0
+Kvinder,18-24 år,Dræbte,Region Midtjylland,Knallert,0
+Kvinder,18-24 år,Dræbte,Region Midtjylland,Cykel,0
+Kvinder,18-24 år,Dræbte,Region Midtjylland,Fodgænger,1
+Kvinder,18-24 år,Dræbte,Region Midtjylland,Andre,0
+Kvinder,18-24 år,Dræbte,Region Nordjylland,Almindelig personbil,2
+Kvinder,18-24 år,Dræbte,Region Nordjylland,Taxi,0
+Kvinder,18-24 år,Dræbte,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,18-24 år,Dræbte,Region Nordjylland,Varebil 0-3.500 kg.,0
+Kvinder,18-24 år,Dræbte,Region Nordjylland,Lastbil over 3.500 kg.,0
+Kvinder,18-24 år,Dræbte,Region Nordjylland,Bus,0
+Kvinder,18-24 år,Dræbte,Region Nordjylland,Motorcykel,1
+Kvinder,18-24 år,Dræbte,Region Nordjylland,Knallert,0
+Kvinder,18-24 år,Dræbte,Region Nordjylland,Knallert,0
+Kvinder,18-24 år,Dræbte,Region Nordjylland,Cykel,0
+Kvinder,18-24 år,Dræbte,Region Nordjylland,Fodgænger,0
+Kvinder,18-24 år,Dræbte,Region Nordjylland,Andre,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Almindelig personbil,24
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Taxi,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Bus,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Motorcykel,3
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Cykel,27
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Fodgænger,14
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Hovedstaden,Andre,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Almindelig personbil,22
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Taxi,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Bus,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Motorcykel,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Knallert,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Knallert,1
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Cykel,4
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Fodgænger,1
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Sjælland,Andre,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Almindelig personbil,23
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Taxi,1
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Bus,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Motorcykel,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Knallert,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Knallert,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Cykel,14
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Fodgænger,1
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Syddanmark,Andre,1
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Almindelig personbil,37
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Taxi,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Bus,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Motorcykel,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Knallert,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Knallert,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Cykel,21
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Fodgænger,7
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Midtjylland,Andre,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Almindelig personbil,18
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Taxi,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Bus,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Motorcykel,1
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Knallert,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Knallert,0
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Cykel,7
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Fodgænger,1
+Kvinder,18-24 år,Alvorligt tilskadekomne,Region Nordjylland,Andre,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Almindelig personbil,23
+Kvinder,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Taxi,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Bus,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Motorcykel,1
+Kvinder,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Knallert,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Knallert,1
+Kvinder,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Cykel,33
+Kvinder,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Fodgænger,1
+Kvinder,18-24 år,Lettere tilskadekomne,Region Hovedstaden,Andre,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Sjælland,Almindelig personbil,11
+Kvinder,18-24 år,Lettere tilskadekomne,Region Sjælland,Taxi,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Sjælland,Bus,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Sjælland,Motorcykel,1
+Kvinder,18-24 år,Lettere tilskadekomne,Region Sjælland,Knallert,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Sjælland,Knallert,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Sjælland,Cykel,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Sjælland,Fodgænger,4
+Kvinder,18-24 år,Lettere tilskadekomne,Region Sjælland,Andre,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Syddanmark,Almindelig personbil,27
+Kvinder,18-24 år,Lettere tilskadekomne,Region Syddanmark,Taxi,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Syddanmark,Bus,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Syddanmark,Motorcykel,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Syddanmark,Knallert,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Syddanmark,Knallert,2
+Kvinder,18-24 år,Lettere tilskadekomne,Region Syddanmark,Cykel,12
+Kvinder,18-24 år,Lettere tilskadekomne,Region Syddanmark,Fodgænger,6
+Kvinder,18-24 år,Lettere tilskadekomne,Region Syddanmark,Andre,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Midtjylland,Almindelig personbil,45
+Kvinder,18-24 år,Lettere tilskadekomne,Region Midtjylland,Taxi,1
+Kvinder,18-24 år,Lettere tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Midtjylland,Bus,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Midtjylland,Motorcykel,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Midtjylland,Knallert,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Midtjylland,Knallert,2
+Kvinder,18-24 år,Lettere tilskadekomne,Region Midtjylland,Cykel,15
+Kvinder,18-24 år,Lettere tilskadekomne,Region Midtjylland,Fodgænger,8
+Kvinder,18-24 år,Lettere tilskadekomne,Region Midtjylland,Andre,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Nordjylland,Almindelig personbil,30
+Kvinder,18-24 år,Lettere tilskadekomne,Region Nordjylland,Taxi,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,1
+Kvinder,18-24 år,Lettere tilskadekomne,Region Nordjylland,Bus,1
+Kvinder,18-24 år,Lettere tilskadekomne,Region Nordjylland,Motorcykel,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Nordjylland,Knallert,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Nordjylland,Knallert,0
+Kvinder,18-24 år,Lettere tilskadekomne,Region Nordjylland,Cykel,6
+Kvinder,18-24 år,Lettere tilskadekomne,Region Nordjylland,Fodgænger,4
+Kvinder,18-24 år,Lettere tilskadekomne,Region Nordjylland,Andre,0
+Kvinder,25-44 år,Dræbte,Region Hovedstaden,Almindelig personbil,1
+Kvinder,25-44 år,Dræbte,Region Hovedstaden,Taxi,0
+Kvinder,25-44 år,Dræbte,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,25-44 år,Dræbte,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Kvinder,25-44 år,Dræbte,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Kvinder,25-44 år,Dræbte,Region Hovedstaden,Bus,0
+Kvinder,25-44 år,Dræbte,Region Hovedstaden,Motorcykel,0
+Kvinder,25-44 år,Dræbte,Region Hovedstaden,Knallert,0
+Kvinder,25-44 år,Dræbte,Region Hovedstaden,Knallert,0
+Kvinder,25-44 år,Dræbte,Region Hovedstaden,Cykel,3
+Kvinder,25-44 år,Dræbte,Region Hovedstaden,Fodgænger,0
+Kvinder,25-44 år,Dræbte,Region Hovedstaden,Andre,0
+Kvinder,25-44 år,Dræbte,Region Sjælland,Almindelig personbil,4
+Kvinder,25-44 år,Dræbte,Region Sjælland,Taxi,0
+Kvinder,25-44 år,Dræbte,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,25-44 år,Dræbte,Region Sjælland,Varebil 0-3.500 kg.,0
+Kvinder,25-44 år,Dræbte,Region Sjælland,Lastbil over 3.500 kg.,0
+Kvinder,25-44 år,Dræbte,Region Sjælland,Bus,0
+Kvinder,25-44 år,Dræbte,Region Sjælland,Motorcykel,1
+Kvinder,25-44 år,Dræbte,Region Sjælland,Knallert,0
+Kvinder,25-44 år,Dræbte,Region Sjælland,Knallert,0
+Kvinder,25-44 år,Dræbte,Region Sjælland,Cykel,0
+Kvinder,25-44 år,Dræbte,Region Sjælland,Fodgænger,0
+Kvinder,25-44 år,Dræbte,Region Sjælland,Andre,0
+Kvinder,25-44 år,Dræbte,Region Syddanmark,Almindelig personbil,1
+Kvinder,25-44 år,Dræbte,Region Syddanmark,Taxi,0
+Kvinder,25-44 år,Dræbte,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,25-44 år,Dræbte,Region Syddanmark,Varebil 0-3.500 kg.,0
+Kvinder,25-44 år,Dræbte,Region Syddanmark,Lastbil over 3.500 kg.,0
+Kvinder,25-44 år,Dræbte,Region Syddanmark,Bus,0
+Kvinder,25-44 år,Dræbte,Region Syddanmark,Motorcykel,0
+Kvinder,25-44 år,Dræbte,Region Syddanmark,Knallert,0
+Kvinder,25-44 år,Dræbte,Region Syddanmark,Knallert,0
+Kvinder,25-44 år,Dræbte,Region Syddanmark,Cykel,2
+Kvinder,25-44 år,Dræbte,Region Syddanmark,Fodgænger,0
+Kvinder,25-44 år,Dræbte,Region Syddanmark,Andre,1
+Kvinder,25-44 år,Dræbte,Region Midtjylland,Almindelig personbil,3
+Kvinder,25-44 år,Dræbte,Region Midtjylland,Taxi,0
+Kvinder,25-44 år,Dræbte,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,25-44 år,Dræbte,Region Midtjylland,Varebil 0-3.500 kg.,0
+Kvinder,25-44 år,Dræbte,Region Midtjylland,Lastbil over 3.500 kg.,0
+Kvinder,25-44 år,Dræbte,Region Midtjylland,Bus,0
+Kvinder,25-44 år,Dræbte,Region Midtjylland,Motorcykel,0
+Kvinder,25-44 år,Dræbte,Region Midtjylland,Knallert,0
+Kvinder,25-44 år,Dræbte,Region Midtjylland,Knallert,1
+Kvinder,25-44 år,Dræbte,Region Midtjylland,Cykel,0
+Kvinder,25-44 år,Dræbte,Region Midtjylland,Fodgænger,0
+Kvinder,25-44 år,Dræbte,Region Midtjylland,Andre,0
+Kvinder,25-44 år,Dræbte,Region Nordjylland,Almindelig personbil,0
+Kvinder,25-44 år,Dræbte,Region Nordjylland,Taxi,0
+Kvinder,25-44 år,Dræbte,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,25-44 år,Dræbte,Region Nordjylland,Varebil 0-3.500 kg.,0
+Kvinder,25-44 år,Dræbte,Region Nordjylland,Lastbil over 3.500 kg.,0
+Kvinder,25-44 år,Dræbte,Region Nordjylland,Bus,0
+Kvinder,25-44 år,Dræbte,Region Nordjylland,Motorcykel,0
+Kvinder,25-44 år,Dræbte,Region Nordjylland,Knallert,0
+Kvinder,25-44 år,Dræbte,Region Nordjylland,Knallert,0
+Kvinder,25-44 år,Dræbte,Region Nordjylland,Cykel,0
+Kvinder,25-44 år,Dræbte,Region Nordjylland,Fodgænger,0
+Kvinder,25-44 år,Dræbte,Region Nordjylland,Andre,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Almindelig personbil,26
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Taxi,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,1
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,1
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Bus,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Motorcykel,2
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,4
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Cykel,89
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Fodgænger,20
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Hovedstaden,Andre,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Almindelig personbil,37
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Taxi,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,1
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Bus,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Motorcykel,5
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Knallert,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Knallert,4
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Cykel,11
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Fodgænger,9
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Sjælland,Andre,2
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Almindelig personbil,40
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Taxi,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,1
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Bus,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Motorcykel,2
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Knallert,1
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Knallert,1
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Cykel,13
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Fodgænger,13
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Syddanmark,Andre,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Almindelig personbil,45
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Taxi,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,1
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,1
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Bus,1
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Motorcykel,4
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Knallert,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Knallert,4
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Cykel,33
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Fodgænger,7
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Midtjylland,Andre,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Almindelig personbil,29
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Taxi,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Bus,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Motorcykel,2
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Knallert,0
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Knallert,1
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Cykel,18
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Fodgænger,5
+Kvinder,25-44 år,Alvorligt tilskadekomne,Region Nordjylland,Andre,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Almindelig personbil,36
+Kvinder,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Taxi,1
+Kvinder,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Bus,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Motorcykel,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Knallert,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Knallert,3
+Kvinder,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Cykel,61
+Kvinder,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Fodgænger,19
+Kvinder,25-44 år,Lettere tilskadekomne,Region Hovedstaden,Andre,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Sjælland,Almindelig personbil,21
+Kvinder,25-44 år,Lettere tilskadekomne,Region Sjælland,Taxi,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,1
+Kvinder,25-44 år,Lettere tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Sjælland,Bus,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Sjælland,Motorcykel,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Sjælland,Knallert,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Sjælland,Knallert,1
+Kvinder,25-44 år,Lettere tilskadekomne,Region Sjælland,Cykel,5
+Kvinder,25-44 år,Lettere tilskadekomne,Region Sjælland,Fodgænger,2
+Kvinder,25-44 år,Lettere tilskadekomne,Region Sjælland,Andre,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Syddanmark,Almindelig personbil,34
+Kvinder,25-44 år,Lettere tilskadekomne,Region Syddanmark,Taxi,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Syddanmark,Bus,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Syddanmark,Motorcykel,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Syddanmark,Knallert,1
+Kvinder,25-44 år,Lettere tilskadekomne,Region Syddanmark,Knallert,1
+Kvinder,25-44 år,Lettere tilskadekomne,Region Syddanmark,Cykel,11
+Kvinder,25-44 år,Lettere tilskadekomne,Region Syddanmark,Fodgænger,3
+Kvinder,25-44 år,Lettere tilskadekomne,Region Syddanmark,Andre,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Midtjylland,Almindelig personbil,75
+Kvinder,25-44 år,Lettere tilskadekomne,Region Midtjylland,Taxi,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Midtjylland,Bus,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Midtjylland,Motorcykel,1
+Kvinder,25-44 år,Lettere tilskadekomne,Region Midtjylland,Knallert,1
+Kvinder,25-44 år,Lettere tilskadekomne,Region Midtjylland,Knallert,4
+Kvinder,25-44 år,Lettere tilskadekomne,Region Midtjylland,Cykel,16
+Kvinder,25-44 år,Lettere tilskadekomne,Region Midtjylland,Fodgænger,11
+Kvinder,25-44 år,Lettere tilskadekomne,Region Midtjylland,Andre,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Nordjylland,Almindelig personbil,61
+Kvinder,25-44 år,Lettere tilskadekomne,Region Nordjylland,Taxi,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Nordjylland,Bus,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Nordjylland,Motorcykel,0
+Kvinder,25-44 år,Lettere tilskadekomne,Region Nordjylland,Knallert,1
+Kvinder,25-44 år,Lettere tilskadekomne,Region Nordjylland,Knallert,1
+Kvinder,25-44 år,Lettere tilskadekomne,Region Nordjylland,Cykel,10
+Kvinder,25-44 år,Lettere tilskadekomne,Region Nordjylland,Fodgænger,8
+Kvinder,25-44 år,Lettere tilskadekomne,Region Nordjylland,Andre,0
+Kvinder,45-64 år,Dræbte,Region Hovedstaden,Almindelig personbil,2
+Kvinder,45-64 år,Dræbte,Region Hovedstaden,Taxi,0
+Kvinder,45-64 år,Dræbte,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,45-64 år,Dræbte,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Kvinder,45-64 år,Dræbte,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Kvinder,45-64 år,Dræbte,Region Hovedstaden,Bus,0
+Kvinder,45-64 år,Dræbte,Region Hovedstaden,Motorcykel,0
+Kvinder,45-64 år,Dræbte,Region Hovedstaden,Knallert,0
+Kvinder,45-64 år,Dræbte,Region Hovedstaden,Knallert,0
+Kvinder,45-64 år,Dræbte,Region Hovedstaden,Cykel,2
+Kvinder,45-64 år,Dræbte,Region Hovedstaden,Fodgænger,1
+Kvinder,45-64 år,Dræbte,Region Hovedstaden,Andre,0
+Kvinder,45-64 år,Dræbte,Region Sjælland,Almindelig personbil,4
+Kvinder,45-64 år,Dræbte,Region Sjælland,Taxi,0
+Kvinder,45-64 år,Dræbte,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,45-64 år,Dræbte,Region Sjælland,Varebil 0-3.500 kg.,0
+Kvinder,45-64 år,Dræbte,Region Sjælland,Lastbil over 3.500 kg.,0
+Kvinder,45-64 år,Dræbte,Region Sjælland,Bus,0
+Kvinder,45-64 år,Dræbte,Region Sjælland,Motorcykel,0
+Kvinder,45-64 år,Dræbte,Region Sjælland,Knallert,0
+Kvinder,45-64 år,Dræbte,Region Sjælland,Knallert,0
+Kvinder,45-64 år,Dræbte,Region Sjælland,Cykel,0
+Kvinder,45-64 år,Dræbte,Region Sjælland,Fodgænger,0
+Kvinder,45-64 år,Dræbte,Region Sjælland,Andre,1
+Kvinder,45-64 år,Dræbte,Region Syddanmark,Almindelig personbil,5
+Kvinder,45-64 år,Dræbte,Region Syddanmark,Taxi,0
+Kvinder,45-64 år,Dræbte,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,45-64 år,Dræbte,Region Syddanmark,Varebil 0-3.500 kg.,1
+Kvinder,45-64 år,Dræbte,Region Syddanmark,Lastbil over 3.500 kg.,0
+Kvinder,45-64 år,Dræbte,Region Syddanmark,Bus,0
+Kvinder,45-64 år,Dræbte,Region Syddanmark,Motorcykel,0
+Kvinder,45-64 år,Dræbte,Region Syddanmark,Knallert,0
+Kvinder,45-64 år,Dræbte,Region Syddanmark,Knallert,1
+Kvinder,45-64 år,Dræbte,Region Syddanmark,Cykel,2
+Kvinder,45-64 år,Dræbte,Region Syddanmark,Fodgænger,1
+Kvinder,45-64 år,Dræbte,Region Syddanmark,Andre,0
+Kvinder,45-64 år,Dræbte,Region Midtjylland,Almindelig personbil,3
+Kvinder,45-64 år,Dræbte,Region Midtjylland,Taxi,0
+Kvinder,45-64 år,Dræbte,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,45-64 år,Dræbte,Region Midtjylland,Varebil 0-3.500 kg.,0
+Kvinder,45-64 år,Dræbte,Region Midtjylland,Lastbil over 3.500 kg.,0
+Kvinder,45-64 år,Dræbte,Region Midtjylland,Bus,0
+Kvinder,45-64 år,Dræbte,Region Midtjylland,Motorcykel,0
+Kvinder,45-64 år,Dræbte,Region Midtjylland,Knallert,0
+Kvinder,45-64 år,Dræbte,Region Midtjylland,Knallert,0
+Kvinder,45-64 år,Dræbte,Region Midtjylland,Cykel,2
+Kvinder,45-64 år,Dræbte,Region Midtjylland,Fodgænger,2
+Kvinder,45-64 år,Dræbte,Region Midtjylland,Andre,1
+Kvinder,45-64 år,Dræbte,Region Nordjylland,Almindelig personbil,1
+Kvinder,45-64 år,Dræbte,Region Nordjylland,Taxi,0
+Kvinder,45-64 år,Dræbte,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,45-64 år,Dræbte,Region Nordjylland,Varebil 0-3.500 kg.,0
+Kvinder,45-64 år,Dræbte,Region Nordjylland,Lastbil over 3.500 kg.,0
+Kvinder,45-64 år,Dræbte,Region Nordjylland,Bus,0
+Kvinder,45-64 år,Dræbte,Region Nordjylland,Motorcykel,1
+Kvinder,45-64 år,Dræbte,Region Nordjylland,Knallert,0
+Kvinder,45-64 år,Dræbte,Region Nordjylland,Knallert,0
+Kvinder,45-64 år,Dræbte,Region Nordjylland,Cykel,1
+Kvinder,45-64 år,Dræbte,Region Nordjylland,Fodgænger,1
+Kvinder,45-64 år,Dræbte,Region Nordjylland,Andre,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Almindelig personbil,34
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Taxi,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Bus,1
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Motorcykel,7
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,3
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Cykel,109
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Fodgænger,49
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Hovedstaden,Andre,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Almindelig personbil,45
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Taxi,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,1
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Bus,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Motorcykel,3
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Knallert,1
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Knallert,2
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Cykel,31
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Fodgænger,10
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Sjælland,Andre,1
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Almindelig personbil,47
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Taxi,2
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,1
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Bus,2
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Motorcykel,3
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Knallert,1
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Knallert,2
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Cykel,49
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Fodgænger,19
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Syddanmark,Andre,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Almindelig personbil,56
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Taxi,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,2
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Bus,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Motorcykel,7
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Knallert,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Knallert,4
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Cykel,59
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Fodgænger,26
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Midtjylland,Andre,1
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Almindelig personbil,23
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Taxi,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Bus,0
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Motorcykel,3
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Knallert,1
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Knallert,1
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Cykel,21
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Fodgænger,10
+Kvinder,45-64 år,Alvorligt tilskadekomne,Region Nordjylland,Andre,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Almindelig personbil,26
+Kvinder,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Taxi,1
+Kvinder,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,1
+Kvinder,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Bus,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Motorcykel,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Knallert,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Knallert,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Cykel,45
+Kvinder,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Fodgænger,10
+Kvinder,45-64 år,Lettere tilskadekomne,Region Hovedstaden,Andre,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Sjælland,Almindelig personbil,14
+Kvinder,45-64 år,Lettere tilskadekomne,Region Sjælland,Taxi,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Sjælland,Bus,1
+Kvinder,45-64 år,Lettere tilskadekomne,Region Sjælland,Motorcykel,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Sjælland,Knallert,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Sjælland,Knallert,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Sjælland,Cykel,7
+Kvinder,45-64 år,Lettere tilskadekomne,Region Sjælland,Fodgænger,5
+Kvinder,45-64 år,Lettere tilskadekomne,Region Sjælland,Andre,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Syddanmark,Almindelig personbil,26
+Kvinder,45-64 år,Lettere tilskadekomne,Region Syddanmark,Taxi,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Syddanmark,Bus,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Syddanmark,Motorcykel,1
+Kvinder,45-64 år,Lettere tilskadekomne,Region Syddanmark,Knallert,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Syddanmark,Knallert,2
+Kvinder,45-64 år,Lettere tilskadekomne,Region Syddanmark,Cykel,21
+Kvinder,45-64 år,Lettere tilskadekomne,Region Syddanmark,Fodgænger,6
+Kvinder,45-64 år,Lettere tilskadekomne,Region Syddanmark,Andre,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Midtjylland,Almindelig personbil,49
+Kvinder,45-64 år,Lettere tilskadekomne,Region Midtjylland,Taxi,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,3
+Kvinder,45-64 år,Lettere tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Midtjylland,Bus,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Midtjylland,Motorcykel,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Midtjylland,Knallert,1
+Kvinder,45-64 år,Lettere tilskadekomne,Region Midtjylland,Knallert,2
+Kvinder,45-64 år,Lettere tilskadekomne,Region Midtjylland,Cykel,25
+Kvinder,45-64 år,Lettere tilskadekomne,Region Midtjylland,Fodgænger,9
+Kvinder,45-64 år,Lettere tilskadekomne,Region Midtjylland,Andre,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Nordjylland,Almindelig personbil,49
+Kvinder,45-64 år,Lettere tilskadekomne,Region Nordjylland,Taxi,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,2
+Kvinder,45-64 år,Lettere tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Nordjylland,Bus,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Nordjylland,Motorcykel,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Nordjylland,Knallert,0
+Kvinder,45-64 år,Lettere tilskadekomne,Region Nordjylland,Knallert,4
+Kvinder,45-64 år,Lettere tilskadekomne,Region Nordjylland,Cykel,12
+Kvinder,45-64 år,Lettere tilskadekomne,Region Nordjylland,Fodgænger,5
+Kvinder,45-64 år,Lettere tilskadekomne,Region Nordjylland,Andre,0
+Kvinder,65 år og derover,Dræbte,Region Hovedstaden,Almindelig personbil,0
+Kvinder,65 år og derover,Dræbte,Region Hovedstaden,Taxi,0
+Kvinder,65 år og derover,Dræbte,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,65 år og derover,Dræbte,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Kvinder,65 år og derover,Dræbte,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Kvinder,65 år og derover,Dræbte,Region Hovedstaden,Bus,0
+Kvinder,65 år og derover,Dræbte,Region Hovedstaden,Motorcykel,0
+Kvinder,65 år og derover,Dræbte,Region Hovedstaden,Knallert,0
+Kvinder,65 år og derover,Dræbte,Region Hovedstaden,Knallert,0
+Kvinder,65 år og derover,Dræbte,Region Hovedstaden,Cykel,2
+Kvinder,65 år og derover,Dræbte,Region Hovedstaden,Fodgænger,9
+Kvinder,65 år og derover,Dræbte,Region Hovedstaden,Andre,0
+Kvinder,65 år og derover,Dræbte,Region Sjælland,Almindelig personbil,5
+Kvinder,65 år og derover,Dræbte,Region Sjælland,Taxi,0
+Kvinder,65 år og derover,Dræbte,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,65 år og derover,Dræbte,Region Sjælland,Varebil 0-3.500 kg.,0
+Kvinder,65 år og derover,Dræbte,Region Sjælland,Lastbil over 3.500 kg.,0
+Kvinder,65 år og derover,Dræbte,Region Sjælland,Bus,0
+Kvinder,65 år og derover,Dræbte,Region Sjælland,Motorcykel,0
+Kvinder,65 år og derover,Dræbte,Region Sjælland,Knallert,0
+Kvinder,65 år og derover,Dræbte,Region Sjælland,Knallert,0
+Kvinder,65 år og derover,Dræbte,Region Sjælland,Cykel,2
+Kvinder,65 år og derover,Dræbte,Region Sjælland,Fodgænger,1
+Kvinder,65 år og derover,Dræbte,Region Sjælland,Andre,0
+Kvinder,65 år og derover,Dræbte,Region Syddanmark,Almindelig personbil,6
+Kvinder,65 år og derover,Dræbte,Region Syddanmark,Taxi,0
+Kvinder,65 år og derover,Dræbte,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,65 år og derover,Dræbte,Region Syddanmark,Varebil 0-3.500 kg.,0
+Kvinder,65 år og derover,Dræbte,Region Syddanmark,Lastbil over 3.500 kg.,0
+Kvinder,65 år og derover,Dræbte,Region Syddanmark,Bus,0
+Kvinder,65 år og derover,Dræbte,Region Syddanmark,Motorcykel,0
+Kvinder,65 år og derover,Dræbte,Region Syddanmark,Knallert,0
+Kvinder,65 år og derover,Dræbte,Region Syddanmark,Knallert,0
+Kvinder,65 år og derover,Dræbte,Region Syddanmark,Cykel,3
+Kvinder,65 år og derover,Dræbte,Region Syddanmark,Fodgænger,4
+Kvinder,65 år og derover,Dræbte,Region Syddanmark,Andre,0
+Kvinder,65 år og derover,Dræbte,Region Midtjylland,Almindelig personbil,3
+Kvinder,65 år og derover,Dræbte,Region Midtjylland,Taxi,0
+Kvinder,65 år og derover,Dræbte,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,65 år og derover,Dræbte,Region Midtjylland,Varebil 0-3.500 kg.,0
+Kvinder,65 år og derover,Dræbte,Region Midtjylland,Lastbil over 3.500 kg.,0
+Kvinder,65 år og derover,Dræbte,Region Midtjylland,Bus,0
+Kvinder,65 år og derover,Dræbte,Region Midtjylland,Motorcykel,0
+Kvinder,65 år og derover,Dræbte,Region Midtjylland,Knallert,0
+Kvinder,65 år og derover,Dræbte,Region Midtjylland,Knallert,1
+Kvinder,65 år og derover,Dræbte,Region Midtjylland,Cykel,2
+Kvinder,65 år og derover,Dræbte,Region Midtjylland,Fodgænger,1
+Kvinder,65 år og derover,Dræbte,Region Midtjylland,Andre,0
+Kvinder,65 år og derover,Dræbte,Region Nordjylland,Almindelig personbil,1
+Kvinder,65 år og derover,Dræbte,Region Nordjylland,Taxi,0
+Kvinder,65 år og derover,Dræbte,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,65 år og derover,Dræbte,Region Nordjylland,Varebil 0-3.500 kg.,0
+Kvinder,65 år og derover,Dræbte,Region Nordjylland,Lastbil over 3.500 kg.,0
+Kvinder,65 år og derover,Dræbte,Region Nordjylland,Bus,0
+Kvinder,65 år og derover,Dræbte,Region Nordjylland,Motorcykel,0
+Kvinder,65 år og derover,Dræbte,Region Nordjylland,Knallert,0
+Kvinder,65 år og derover,Dræbte,Region Nordjylland,Knallert,0
+Kvinder,65 år og derover,Dræbte,Region Nordjylland,Cykel,0
+Kvinder,65 år og derover,Dræbte,Region Nordjylland,Fodgænger,1
+Kvinder,65 år og derover,Dræbte,Region Nordjylland,Andre,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Almindelig personbil,31
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Taxi,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Bus,2
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Motorcykel,2
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Knallert,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Cykel,44
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Fodgænger,64
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Hovedstaden,Andre,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Almindelig personbil,36
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Taxi,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Bus,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Motorcykel,1
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Knallert,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Knallert,1
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Cykel,21
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Fodgænger,22
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Sjælland,Andre,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Almindelig personbil,44
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Taxi,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Bus,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Motorcykel,1
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Knallert,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Knallert,2
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Cykel,31
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Fodgænger,35
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Syddanmark,Andre,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Almindelig personbil,49
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Taxi,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Bus,2
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Motorcykel,1
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Knallert,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Knallert,1
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Cykel,32
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Fodgænger,31
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Midtjylland,Andre,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Almindelig personbil,29
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Taxi,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Bus,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Motorcykel,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Knallert,1
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Knallert,0
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Cykel,20
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Fodgænger,14
+Kvinder,65 år og derover,Alvorligt tilskadekomne,Region Nordjylland,Andre,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Almindelig personbil,12
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Taxi,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Varebil 0-3.500 kg.,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Lastbil over 3.500 kg.,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Bus,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Motorcykel,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Knallert,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Knallert,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Cykel,22
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Fodgænger,12
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Hovedstaden,Andre,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Sjælland,Almindelig personbil,9
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Sjælland,Taxi,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Sjælland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Sjælland,Varebil 0-3.500 kg.,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Sjælland,Lastbil over 3.500 kg.,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Sjælland,Bus,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Sjælland,Motorcykel,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Sjælland,Knallert,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Sjælland,Knallert,1
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Sjælland,Cykel,5
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Sjælland,Fodgænger,3
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Sjælland,Andre,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Almindelig personbil,19
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Taxi,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Varebil 0-3.500 kg.,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Lastbil over 3.500 kg.,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Bus,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Motorcykel,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Knallert,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Knallert,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Cykel,11
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Fodgænger,8
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Syddanmark,Andre,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Almindelig personbil,26
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Taxi,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Varebil 0-3.500 kg.,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Lastbil over 3.500 kg.,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Bus,2
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Motorcykel,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Knallert,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Knallert,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Cykel,12
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Fodgænger,11
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Midtjylland,Andre,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Almindelig personbil,28
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Taxi,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Køretøj 0-3.500 kg under udrykning,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Varebil 0-3.500 kg.,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Lastbil over 3.500 kg.,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Bus,1
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Motorcykel,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Knallert,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Knallert,0
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Cykel,5
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Fodgænger,9
+Kvinder,65 år og derover,Lettere tilskadekomne,Region Nordjylland,Andre,0
