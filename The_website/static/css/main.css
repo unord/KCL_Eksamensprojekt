@@ -72,16 +72,17 @@ path:hover {
 }
 
 header {
- background: #001e3c;
- min-height:85px;
+ background: #001e3c !important;
+ min-height:85px !important;
 }
 
 .Logo {
-    float: left;
+    float: left !important; 
+    padding: 5px;
 }
 
 nav {
-    float: right;
+    float: right !important;
 }
 
 nav ul {
@@ -90,15 +91,41 @@ nav ul {
     list-style: none;
 
 }
-
+ 
 nav li {
     display: inline-block;
+    margin-left: 70px;
+    padding-top: 23px;
 
+    position: relative;
 }
 
-.Lunk{
+nav a { 
     color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
 
+    
+}
+
+nav a::before{
+    content: ''; 
+    display: block;
+    height: 7px;
+    background-color: #ffffff;
+
+    position: absolute;
+    top: 0;
+    width: 0%;
+
+    transition: all ease-in-out 250ms;
+}
+
+.Lunk:hover::before { 
+    
+    width: 100%;
 }
 
 .Lunk:hover { color: #585858; }
