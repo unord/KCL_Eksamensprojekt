@@ -1,26 +1,43 @@
 {% extends "base.html" %}
 
 {% block content %}
-
-<div class="grid-container">
-    <div class="info-container">
-        <!-- Info box content -->
-        <h3>Information</h3>
-        <p>Velkommen til Politiets ulykkesdatabase! Har du nogensinde spekuleret over, hvad dine chancer er for at havne i en bilulykke? Vores smarte hjemmeside bruger avancerede algoritmer til at bearbejde tallene og give dig en personlig risikovurdering. Bare indtast detaljer om din biltypen, alder og køn, og vi vil give dig et skøn over din sandsynlighed for at være involveret i en ulykke. Uanset om du kører i en elegant sedan, en robust SUV eller en hurtig sportsvogn, tilpasser vi resultaterne til dit specifikke køretøj.</p>
-    </div>
-
-    <div class="results-container">
-        <!-- Results box content -->
-        <h3>Resultater</h3>
-        <p>Here are the results:</p>
-        <ul>
-            <li>Result 1</li>
-            <li>Result 2</li>
-            <li>Result 3</li>
-        </ul>
-        
-        <!-- Button to navigate to page 2 -->
-        <a href="/Page2/" class="btn btn-to-page2">Go to Page 2</a>
+<div class="container">
+    <h1>Welcome to the Police Accident Prediction System</h1>
+    <div class="grid-container">
+        <div class="info-container">
+            <h3>Information</h3>
+            <p>Velkommen til Politiets ulykkesdatabase! Har du nogensinde spekuleret over, hvad dine chancer er for at havne i en bilulykke? Vores smarte hjemmeside bruger avancerede algoritmer til at bearbejde tallene og give dig en personlig risikovurdering. Bare indtast detaljer om din biltypen, alder og køn, og vi vil give dig et skøn over din sandsynlighed for at være involveret i en ulykke. Uanset om du kører i en elegant sedan, en robust SUV eller en hurtig sportsvogn, tilpasser vi resultaterne til dit specifikke køretøj.</p>
+        </div>
+        <div class="results-container">
+            <h3>Resultater</h3>
+            <div id="results"></div>
+        </div>
     </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const prediction = sessionStorage.getItem('prediction');
+    const gender = sessionStorage.getItem('gender');
+    const age = sessionStorage.getItem('age');
+    const region = sessionStorage.getItem('region');
+    const vehicle = sessionStorage.getItem('vehicle');
+
+    if (prediction && gender && age && region && vehicle) {
+        const resultsContainer = document.getElementById('results');
+        resultsContainer.innerHTML = `
+            <ul>
+                <li>Køn: ${gender}</li>
+                <li>Alder: ${age}</li>
+                <li>Region: ${region}</li>
+                <li>Køretøjstype: ${vehicle}</li>
+                <li>Forudset skade: ${prediction}</li>
+            </ul>
+        `;
+    } else {
+        const resultsContainer = document.getElementById('results');
+        resultsContainer.innerHTML = '<p>Ingen resultater endnu. Udfør en forudsigelse først.</p>';
+    }
+});
+</script>
 {% endblock %}

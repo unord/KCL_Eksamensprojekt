@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify, render_template
+from flask import Flask, request, jsonify, render_template, session
 import numpy as np
 import pandas as pd
 from joblib import load
@@ -40,7 +40,7 @@ def predict_injury():
     print("Received data:", data)  # Debug print
     gender = data['gender']
     age = data['age']
-    area = data['area']
+    area = data['area'].title()  # Ensure consistent capitalization
     vehicle = data['vehicle']
 
     # Create a DataFrame for the input features
@@ -63,6 +63,10 @@ def predict_injury():
     # Get the predicted class label
     predicted_class = prediction[0]
     print("Prediction:", predicted_class)  # Debug print
+    
+    # Store the prediction result and user inputs in session
+    session['prediction'] = predicted_class
+    session['inputs'] = data
     
     return jsonify({'prediction': predicted_class})
 

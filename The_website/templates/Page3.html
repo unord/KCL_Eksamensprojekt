@@ -1,45 +1,35 @@
 {% extends "base.html" %}
 
 {% block content %}
-<script src="https://kit.fontawesome.com/64d5226875.js" crossorigin="anonymous"></script>
-<script src="{{ url_for('static', filename='js/script.js') }}"></script>
-
 <div class="container">
   <h1>Ulykkeberegner</h1>
-
-  <!-- Add a placeholder element for the region name -->
-  <div id="regionName"></div>
-
-  <form action="/id/" method="POST"> <!-- Update the action attribute here -->
+  <div id="regionName">Selected Region: <span id="selected-region"></span></div>
+  <form id="prediction-form">
     <div class="form-group">
-      <label for="year">køn:</label>
-      <select class="form-control" name="gender" id="Gender">
-        <option value="Mænd">Mænd</option>
-        <option value="Kvinder">Kvinder</option>
-        <option value="Uoplyst køn">Uoplyst køn</option>
-        <!-- Add more options based on your dataset -->
+      <label for="gender">Køn:</label>
+      <select class="form-control" name="gender" id="gender">
+        <option value="Mand">Mand</option>
+        <option value="Kvinde">Kvinde</option>
       </select>
     </div>
-
     <div class="form-group">
-      <label for="city">Alder</label>
-      <select class="form-control" name="Age" id="Age">
-        <option value="0-17">0-17</option>
-        <option value="18-24">18-24</option>
-        <option value="25-44">45-64</option>
-        <option value="65">65</option>
-        <option value="Uoplyst">Uoplyst</option>
+      <label for="age">Alder</label>
+      <select class="form-control" name="age" id="age">
+        <option value="0-17 År">0-17 År</option>
+        <option value="18-24 År">18-24 År</option>
+        <option value="25-44 År">25-44 År</option>
+        <option value="45-64 År">45-64 År</option>
+        <option value="65 År og derover">65 År og derover</option>
       </select>
     </div>
-
     <div class="form-group">
-      <label for="Type of Vehicle">Type af bil</label>
-      <select class="form-control" name="Vehicle" id="Vehicle">
+      <label for="vehicle">Type of Vehicle</label>
+      <select class="form-control" name="vehicle" id="vehicle">
         <option value="Almindelig personbil">Almindelig personbil</option>
         <option value="Taxi">Taxi</option>
         <option value="Køretøj 0-3.500 kg under udrykning">Køretøj 0-3.500 kg under udrykning</option>
-        <option value="Varebil 0-3.500 kg">Varebil 0-3.500 kg</option>
-        <option value="Lastbil over 3.500 kg">Lastbil over 3.500 kg</option>
+        <option value="Varebil 0-3.500 kg.">Varebil 0-3.500 kg.</option>
+        <option value="Lastbil over 3.500 kg.">Lastbil over 3.500 kg.</option>
         <option value="Bus">Bus</option>
         <option value="Motorcykel">Motorcykel</option>
         <option value="Knallert 45">Knallert 45</option>
@@ -49,27 +39,44 @@
         <option value="Andre">Andre</option>
       </select>
     </div>
-
-    <!-- Add more dropdown boxes for other attributes -->
-
-    <!-- Button to navigate to page 2 -->
-    <a href="/" class="btn btn-to-page2">se dine resultater</a>
+    <button type="submit" class="btn btn-primary">Submit</button>
   </form>
-
+  <div id="prediction-result" class="mt-3"></div>
 </div>
 
-<!-- Retrieve and display the saved region name -->
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const regionNameElement = document.getElementById('regionName');
-    const selectedRegion = localStorage.getItem('selectedRegion');
+  $(document).ready(function() {
+    const region = localStorage.getItem('selectedRegion');
+    $('#selected-region').text(region);
 
-    // Check if a region name is saved
-    if (selectedRegion) {
-      // Display the saved region name
-      regionNameElement.textContent = `Selected Region: ${selectedRegion}`;
-    }
+    $('#prediction-form').on('submit', function(event) {
+      event.preventDefault();
+      const genderMap = { 'Mand': 'Mænd', 'Kvinde': 'Kvinder' };
+      const gender = genderMap[$('#gender').val()];
+      const age = $('#age').val();
+      const vehicle = $('#vehicle').val();
+
+      $.ajax({
+        url: '/predict_injury',
+        method: 'POST',
+        contentType: 'application/json',
+        data: JSON.stringify({ gender: gender, age: age, area: region, vehicle: vehicle }),
+        success: function(response) {
+          $('#prediction-result').html('<h4>Predicted Injury: ' + response.prediction + '</h4>');
+          // Save prediction result and user inputs to sessionStorage
+          sessionStorage.setItem('prediction', response.prediction);
+          sessionStorage.setItem('gender', gender);
+          sessionStorage.setItem('age', age);
+          sessionStorage.setItem('region', region);
+          sessionStorage.setItem('vehicle', vehicle);
+          // Navigate to home page
+          window.location.href = '/';
+        },
+        error: function(error) {
+          $('#prediction-result').html('<h4>Error: Unable to get prediction</h4>');
+        }
+      });
+    });
   });
 </script>
-
 {% endblock %}
