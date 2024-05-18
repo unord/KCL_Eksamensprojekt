@@ -1,5 +1,4 @@
-# from flask import Flask, request, jsonify, render_template, session
-from flask import *
+from flask import Flask, request, jsonify, render_template, session, redirect, url_for
 import numpy as np
 import pandas as pd
 from joblib import load
@@ -71,7 +70,6 @@ def predict_injury():
     
     return jsonify({'prediction': predicted_class})
 
-
 @app.route('/more_info', methods=['GET'])
 def more_info():
     if 'inputs' not in session:
@@ -85,10 +83,9 @@ def more_info():
 
     # Define a mapping for prediction values to numerical scores
     prediction_mapping = {
-        'Ingen personskade': 0,
         'Lettere tilskadekomne': 1,
         'Alvorligt tilskadekomne': 2,
-        'Dødeligt tilskadekomne': 3
+        'Dræbte': 3
     }
 
     # Prepare data to calculate alternatives
@@ -140,9 +137,6 @@ def more_info():
                            best_vehicle=best_vehicle, 
                            worst_vehicle=worst_vehicle,
                            grouped_results=grouped_results)
-
-
-
 
 # Start the Flask application
 if __name__ == '__main__':
