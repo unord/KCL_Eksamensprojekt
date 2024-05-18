@@ -236,3 +236,20 @@ button[type="submit"]:hover {
 select {
   cursor: pointer;
 }
+
+/* MORE INFO PAGE BELOW:
+
+/* Ensure the table fits well within the container */
+.table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+/* Optional: Additional styling for better readability */
+.table thead th {
+  background-color: #f8f9fa;
+}
+
+.table tbody tr:hover {
+  background-color: #f1f1f1;
+}
