@@ -4,15 +4,27 @@
 <div class="container">
     <h1>Welcome to the Police Accident Prediction System</h1>
     <div class="grid-container">
-        <div class="info-container">
-            <h3>Information</h3>
-            <p>Velkommen til Politiets ulykkeberegner! Vores hjemmeside anvender data fra Danmarks Statistik til at analysere og forudsige, hvilken type uheld du kan være i forhøjet risiko for, baseret på din lokation, køretøj, alder og køn. Vi kan ikke garantere, hvad der vil ske i tilfælde af et uheld, men vores mål er at illustrere potentielle forhøjede risici for bestemte typer uheld.</p>
-            <p>Vores avancerede algoritmer bearbejder data for at give dig en bedre forståelse af, hvilke faktorer der kan påvirke typen af uheld, du kunne være mest udsat for. Dette kan måske være vejledende i forhold til at vælge køretøjsform eller tage andre forholdsregler.</p>
-            <p>Bemærk venligst, at resultaterne på denne hjemmeside er illustrative og ikke bør ses som en garanti eller en præcis forudsigelse af fremtidige hændelser. Vi håber, at informationerne kan være nyttige og give dig indsigt i de forskellige risici, der kan være forbundet med forskellige situationer og køretøjer.</p>
+        <div class="image-container">
+            <img src="{{ url_for('static', filename='img/info.jpg') }}" alt="Sample Image">
+            <div class="info-container">
+                <h3>Information</h3>
+                <p>Velkommen til Politiets ulykkeberegner! Vores hjemmeside anvender data fra Danmarks Statistik til at analysere og forudsige, hvilken type uheld du kan være i forhøjet risiko for, baseret på din lokation, køretøj, alder og køn. Vi kan ikke garantere, hvad der vil ske i tilfælde af et uheld, men vores mål er at illustrere potentielle forhøjede risici for bestemte typer uheld.</p>
+                <p>Vores avancerede algoritmer bearbejder data for at give dig en bedre forståelse af, hvilke faktorer der kan påvirke typen af uheld, du kunne være mest udsat for. Dette kan måske være vejledende i forhold til at vælge køretøjsform eller tage andre forholdsregler.</p>
+                <p>Bemærk venligst, at resultaterne på denne hjemmeside er illustrative og ikke bør ses som en garanti eller en præcis forudsigelse af fremtidige hændelser. Vi håber, at informationerne kan være nyttige og give dig indsigt i de forskellige risici, der kan være forbundet med forskellige situationer og køretøjer.</p>
+            </div>
         </div>
-        <div class="results-container">
-            <h3>Resultater</h3>
-            <div id="results"></div>
+        <div class="result">
+            <div class="results-container">
+                <h3>Resultater</h3>
+                <div id="results"></div>
+            </div>
+        </div>
+        <div class="image-container">
+            <img src="{{ url_for('static', filename='img/politi.jpg') }}" alt="Sample Image">
+            <div class="info-container">
+                <h3>Vores Process</h3>
+                <p>indsæt tekst omkring hvordan vi har skaffet vores data og hvordan vi har trænet vores model</p>
+            </div>
         </div>
     </div>
 </div>

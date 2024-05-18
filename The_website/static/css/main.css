@@ -13,9 +13,7 @@ path:hover {
 }
 
 .grid-container {
-    display: grid;
-    grid-template-columns: 1000px 1fr; /* 250px width for form box and 1fr for results box */
-    gap: 50px; /* Gap between grid items */
+    display: block;
     background-color: #ffffff; /* White background */
     margin: 20px;
 }
@@ -25,16 +23,25 @@ path:hover {
 }
 
 .info-container {
-    background-color: #d9f1f5; /* Light green background */
+    background-color: #001e3c; /* Light green background */
+    color: #ffffff;
     border-radius: 25px;
     padding: 20px;
     text-align: center;
+    margin: 15px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .results-container {
     background-color: #ebebeb; /* Light grey background */
     border-radius: 25px;
     padding: 20px;
+    text-align: center;
+    margin: 15px;
+    text-align: center;
 }
 
 .btn-to-page2 {
@@ -66,10 +73,18 @@ path:hover {
     z-index: 9999; /* Ensure tooltip appears above other elements */
     display: none; /* Initially hide the tooltip */
 }
-.container {
- width: 100%;
- margin: 0 auto;
+
+.image-container {
+    position: relative;
+    display: inline-block;
 }
+
+.image-container img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
 
 header {
  background: #001e3c !important;
