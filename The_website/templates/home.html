@@ -13,10 +13,10 @@
         <div class="results-container">
             <h3>Resultater</h3>
             <div id="results"></div>
+            <button id="more-info-btn" class="btn btn-primary mt-3">More Info</button>
         </div>
     </div>
 </div>
-
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -37,10 +37,16 @@ document.addEventListener('DOMContentLoaded', function() {
                 <li>Forudset skade: ${prediction}</li>
             </ul>
         `;
+        document.getElementById('more-info-btn').style.display = 'block';
     } else {
         const resultsContainer = document.getElementById('results');
         resultsContainer.innerHTML = '<p>Ingen resultater endnu. Udfør en forudsigelse først.</p>';
+        document.getElementById('more-info-btn').style.display = 'none';
     }
+
+    document.getElementById('more-info-btn').addEventListener('click', function() {
+        window.location.href = '/more_info';
+    });
 });
 </script>
 {% endblock %}

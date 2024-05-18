@@ -1,4 +1,5 @@
-from flask import Flask, request, jsonify, render_template, session
+# from flask import Flask, request, jsonify, render_template, session
+from flask import *
 import numpy as np
 import pandas as pd
 from joblib import load
@@ -69,6 +70,79 @@ def predict_injury():
     session['inputs'] = data
     
     return jsonify({'prediction': predicted_class})
+
+
+@app.route('/more_info', methods=['GET'])
+def more_info():
+    if 'inputs' not in session:
+        return redirect(url_for('home'))
+    
+    inputs = session['inputs']
+    gender = inputs['gender']
+    age = inputs['age']
+    region = inputs['area'].title()
+    vehicle = inputs['vehicle']
+
+    # Define a mapping for prediction values to numerical scores
+    prediction_mapping = {
+        'Ingen personskade': 0,
+        'Lettere tilskadekomne': 1,
+        'Alvorligt tilskadekomne': 2,
+        'Dødeligt tilskadekomne': 3
+    }
+
+    # Prepare data to calculate alternatives
+    regions = label_encoders['Area'].classes_
+    vehicles = label_encoders['Type of Vehicle'].classes_
+    results = []
+
+    for r in regions:
+        for v in vehicles:
+            input_data = pd.DataFrame({
+                'Gender': [gender],
+                'Age': [age],
+                'Area': [r],
+                'Type of Vehicle': [v]
+            })
+            for column, le in label_encoders.items():
+                input_data[column] = le.transform(input_data[column])
+            prediction = model.predict(input_data)[0]
+            results.append({
+                'region': r,
+                'vehicle': v,
+                'prediction': prediction,
+                'prediction_score': prediction_mapping[prediction]
+            })
+
+    # Calculate averages
+    region_avg = {r: [] for r in regions}
+    vehicle_avg = {v: [] for v in vehicles}
+
+    for result in results:
+        region_avg[result['region']].append(result['prediction_score'])
+        vehicle_avg[result['vehicle']].append(result['prediction_score'])
+
+    best_region = min(region_avg, key=lambda k: sum(region_avg[k])/len(region_avg[k]))
+    worst_region = max(region_avg, key=lambda k: sum(region_avg[k])/len(region_avg[k]))
+    best_vehicle = min(vehicle_avg, key=lambda k: sum(vehicle_avg[k])/len(vehicle_avg[k]))
+    worst_vehicle = max(vehicle_avg, key=lambda k: sum(vehicle_avg[k])/len(vehicle_avg[k]))
+
+    # Group results by region for the template
+    grouped_results = {}
+    for result in results:
+        if result['region'] not in grouped_results:
+            grouped_results[result['region']] = []
+        grouped_results[result['region']].append(result)
+
+    return render_template('more_info.html', 
+                           best_region=best_region, 
+                           worst_region=worst_region, 
+                           best_vehicle=best_vehicle, 
+                           worst_vehicle=worst_vehicle,
+                           grouped_results=grouped_results)
+
+
+
 
 # Start the Flask application
 if __name__ == '__main__':
