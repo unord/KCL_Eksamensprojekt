@@ -1,68 +1,71 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="container">
-    <h1>Welcome to the Police Accident Prediction System</h1>
-    <div class="grid-container">
-        <div class="image-container">
-            <img src="{{ url_for('static', filename='img/info.jpg') }}" alt="Sample Image">
-            <div class="info-container">
-                <h3>Information</h3>
-                <p>Velkommen til Politiets ulykkeberegner! Vores hjemmeside anvender data fra Danmarks Statistik til at analysere og forudsige, hvilken type uheld du kan være i forhøjet risiko for, baseret på din lokation, køretøj, alder og køn. Vi kan ikke garantere, hvad der vil ske i tilfælde af et uheld, men vores mål er at illustrere potentielle forhøjede risici for bestemte typer uheld.</p>
-                <p>Vores avancerede algoritmer bearbejder data for at give dig en bedre forståelse af, hvilke faktorer der kan påvirke typen af uheld, du kunne være mest udsat for. Dette kan måske være vejledende i forhold til at vælge køretøjsform eller tage andre forholdsregler.</p>
-                <p>Bemærk venligst, at resultaterne på denne hjemmeside er illustrative og ikke bør ses som en garanti eller en præcis forudsigelse af fremtidige hændelser. Vi håber, at informationerne kan være nyttige og give dig indsigt i de forskellige risici, der kan være forbundet med forskellige situationer og køretøjer.</p>
+<section class="campaignImageLeft" aria-labelledby="campaignLeft_FE3FFEA2-3CAD-439D-8735-823ACB98ED9D">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col col-6">
+                <div class="campaignImageLeft">
+                    <img src="{{ url_for('static', filename='img/info.jpg') }}" alt="Sample Image" />
+                </div>
+            </div>
+            <div class="col col-6">
+                <div class="campaignTextRight">
+                    <h2 id="campaignLeft_FE3FFEA2-3CAD-439D-8735-823ACB98ED9D" class="campaignTitle dark-blue h1-police-bold">Information</h2>
+                    <p>Velkommen til Politiets ulykkeberegner! Vores hjemmeside anvender data fra Danmarks Statistik til at analysere og forudsige, hvilken type uheld du kan være i forhøjet risiko for, baseret på din lokation, køretøj, alder og køn. Vi kan ikke garantere, hvad der vil ske i tilfælde af et uheld, men vores mål er at illustrere potentielle forhøjede risici for bestemte typer uheld.</p>
+                    <p>Vores avancerede algoritmer bearbejder data for at give dig en bedre forståelse af, hvilke faktorer der kan påvirke typen af uheld, du kunne være mest udsat for. Dette kan måske være vejledende i forhold til at vælge køretøjsform eller tage andre forholdsregler.</p>
+                    <p>Bemærk venligst, at resultaterne på denne hjemmeside er illustrative og ikke bør ses som en garanti eller en præcis forudsigelse af fremtidige hændelser. Vi håber, at informationerne kan være nyttige og give dig indsigt i de forskellige risici, der kan være forbundet med forskellige situationer og køretøjer.</p>
+                </div>
             </div>
         </div>
-        <div class="result">
-            <div class="results-container">
-                <h3>Resultater</h3>
-                <div id="results"></div>
-                <button id="more-info-btn" class="btn btn-primary mt-3">More Info</button>
-                <a id="identify-link" class="Lunk btn btn-secondary mt-3" href="/Page2/" style="display: none;">
-                    <i class="bi bi-search"></i> Identify
-                </a>
-            </div>
-        </div>
-        <div class="image-container">
-            <img src="{{ url_for('static', filename='img/politi.jpg') }}" alt="Sample Image">
-            <div class="info-container">
-                <h3>Vores Process</h3>
-                <p>indsæt tekst omkring hvordan vi har skaffet vores data og hvordan vi har trænet vores model</p>
-            </div>
     </div>
-</div>
+</section>
 
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const prediction = sessionStorage.getItem('prediction');
-    const gender = sessionStorage.getItem('gender');
-    const age = sessionStorage.getItem('age');
-    const region = sessionStorage.getItem('region');
-    const vehicle = sessionStorage.getItem('vehicle');
+<section class="campaignImageRight" aria-labelledby="campaignRight_30FD4A96-B250-4F02-8C6F-BBB031DC8D54">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col col-6">
+                <div class="campaignTextLeft">
+                    <h2 id="campaignRight_30FD4A96-B250-4F02-8C6F-BBB031DC8D54" class="campaignTitle dark-blue h1-police-bold">Resultater</h2>
+                    <div id="results">
+                        <ul>
+                            <li>Køn: {{ gender }}</li>
+                            <li>Alder: {{ age }}</li>
+                            <li>Region: {{ region }}</li>
+                            <li>Køretøjstype: {{ vehicle }}</li>
+                            <li>Forudset skade: {{ prediction }}</li>
+                        </ul>
+                    </div>
+                    <button id="more-info-btn" class="primary-button-arrow h6-police-bold mt-3">More Info</button>
+                    <a id="identify-link" class="Lunk btn btn-secondary mt-3" href="/Page2/" style="display: none;">
+                        <i class="bi bi-search"></i> Identify
+                    </a>
+                </div>
+            </div>
+            <div class="col col-6">
+                <div class="campaignImageRight">
+                    <img src="{{ url_for('static', filename='img/politi.jpg') }}" alt="Sample Image" />
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-    if (prediction && gender && age && region && vehicle) {
-        const resultsContainer = document.getElementById('results');
-        resultsContainer.innerHTML = `
-            <ul>
-                <li>Køn: ${gender}</li>
-                <li>Alder: ${age}</li>
-                <li>Region: ${region}</li>
-                <li>Køretøjstype: ${vehicle}</li>
-                <li>Forudset skade: ${prediction}</li>
-            </ul>
-        `;
-        document.getElementById('more-info-btn').style.display = 'block';
-        document.getElementById('identify-link').style.display = 'none';
-    } else {
-        const resultsContainer = document.getElementById('results');
-        resultsContainer.innerHTML = '<p>Ingen resultater endnu. Udfør en forudsigelse først.</p>';
-        document.getElementById('more-info-btn').style.display = 'none';
-        document.getElementById('identify-link').style.display = 'block';
-    }
-
-    document.getElementById('more-info-btn').addEventListener('click', function() {
-        window.location.href = '/more_info';
-    });
-});
-</script>
+<section class="campaignImageLeft" aria-labelledby="campaignLeft_14663F7D-B937-4C47-99A5-5A5A890C1D4E">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col col-6">
+                <div class="campaignImageLeft">
+                    <img src="{{ url_for('static', filename='img/process.jpg') }}" alt="Process Image" />
+                </div>
+            </div>
+            <div class="col col-6">
+                <div class="campaignTextRight">
+                    <h2 id="campaignLeft_14663F7D-B937-4C47-99A5-5A5A890C1D4E" class="campaignTitle dark-blue h1-police-bold">Vores Process</h2>
+                    <p>Indsæt tekst omkring hvordan vi har skaffet vores data og hvordan vi har trænet vores model.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 {% endblock %}

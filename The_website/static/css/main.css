@@ -1,255 +1,313 @@
 @charset "UTF-8";
 
-/* base */
-path:hover {
-  fill: purple;
-  stroke: red;
-  stroke-width: 3px;
-  transition: fill 0.4s;
-}
-* {
-  margin: 0;
-  padding: 0;
+/* Base styling */
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f5f1;
 }
 
-.grid-container {
-    display: block;
-    background-color: #ffffff; /* White background */
-    margin: 20px;
+/* Campaign Image Left Section */
+.campaignImageLeft {
+    background: #f1ebe3;
+    overflow: hidden;
+    padding: 30px 0;
 }
 
-.info-container, .results-container {
-  padding: 20px; /* Padding inside the boxes */
-}
-
-.info-container {
-    background-color: #001e3c; /* Light green background */
-    color: #ffffff;
-    border-radius: 25px;
-    padding: 20px;
-    text-align: center;
-    margin: 15px;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-.results-container {
-    background-color: #ebebeb; /* Light grey background */
-    border-radius: 25px;
-    padding: 20px;
-    text-align: center;
-    margin: 15px;
-    text-align: center;
-  background-color: #d9f1f5; /* Light green background */
-  border-radius: 25px;
-  padding: 20px;
-  text-align: center;
-}
-
-.results-container {
-  background-color: #ebebeb; /* Light grey background */
-  border-radius: 25px;
-  padding: 20px;
-}
-
-.btn-to-page2 {
-  display: block;
-  margin-top: 20px;
-  padding: 10px 15px;
-  background-color: #007bff; /* Blue background */
-  color: #ffffff; /* White text */
-  border: none;
-  border-radius: 5px; /* Rounded corners */
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  transition: background-color 0.3s ease;
-}
-
-.btn-to-page2:hover {
-  background-color: #0056b3; /* Darker blue background on hover */
-}
-
-.tooltip {
-  position: absolute;
-  background-color: rgba(0, 0, 0, 0.7); /* Background color */
-  color: #fff; /* Text color */
-  padding: 5px 10px; /* Padding */
-  border-radius: 5px; /* Border radius */
-  font-size: 12px; /* Font size */
-  pointer-events: none; /* Avoid blocking mouse events on the tooltip */
-  z-index: 9999; /* Ensure tooltip appears above other elements */
-  display: none; /* Initially hide the tooltip */
-}
-
-.image-container {
+.campaignImageLeft .campaignImageLeft {
     position: relative;
+    transform: skew(-15deg);
+    width: 90%;
+    height: 100%;
+}
+
+.campaignImageLeft .campaignImageLeft img {
+    position: absolute;
+    left: -70px;
+    height: 100%;
+    transform: skew(15deg);
+}
+
+.campaignTextRight {
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+.campaignTextRight .campaignTitle {
+    font-size: 24px;
+    font-weight: bold;
+    color: #001e3c;
+}
+
+.primary-button-arrow {
     display: inline-block;
-}
-.container {
-  width: 100%;
-  margin: 0 auto;
-  align-items: center;
-}
-
-.image-container img {
-    display: block;
-    width: 100%;
-    height: auto;
+    margin-top: 20px;
+    padding: 10px 15px;
+    background-color: #001e3c;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
 }
 
+.primary-button-arrow:hover {
+    background-color: #0056b3;
+}
 
+/* Campaign Image Right Section */
+.campaignImageRight {
+    background: #f8f5f1;
+    overflow: hidden;
+    padding: 30px 0;
+}
+
+.campaignImageRight .campaignImageRight {
+    position: relative;
+    transform: skew(-15deg);
+    width: 90%;
+    height: 100%;
+}
+
+.campaignImageRight .campaignImageRight img {
+    position: absolute;
+    right: -70px;
+    height: 100%;
+    transform: skew(15deg);
+}
+
+.campaignTextLeft {
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 8px;
+}
+
+.campaignTextLeft .campaignTitle {
+    font-size: 24px;
+    font-weight: bold;
+    color: #001e3c;
+}
+
+.results-container {
+    background-color: #ebebeb;
+    border-radius: 25px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 15px;
+}
+
+/* Additional Styles */
+.container-fluid {
+    padding: 0 15px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.col-6 {
+    width: 50%;
+    padding: 15px;
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 14px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #001e3c;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #0056b3;
+}
+
+/* Media Queries */
+@media (min-width: 768px) {
+    .campaignImageLeft .campaignImageLeft,
+    .campaignImageRight .campaignImageRight {
+        width: 100%;
+    }
+
+    .campaignTextRight,
+    .campaignTextLeft {
+        padding: 75px;
+        min-height: 500px;
+    }
+
+    .campaignTitle {
+        font-size: 40px;
+        line-height: 50px;
+    }
+}
+
+@media (max-width: 767px) {
+    .col-6 {
+        width: 100%;
+    }
+}
 header {
-  background: #001e3c !important;
-  min-height: 85px !important;
-}
-
+    background: #001e3c !important;
+    min-height: 85px !important;
+  }
 .Logo {
-  float: left !important;
-  padding: 5px;
-}
-
+    float: left !important;
+    padding: 5px;
+  }
+  
 nav {
-  float: right !important;
-}
-
+    float: right !important;
+  }
+  
 nav ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+  
 nav li {
-  display: inline-block;
-  margin-left: 70px;
-  padding-top: 23px;
-  position: relative;
-}
-
+    display: inline-block;
+    margin-left: 70px;
+    padding-top: 23px;
+    position: relative;
+  }
+  
 nav a {
-  color: #ffffff;
-  text-decoration: none;
-  text-transform: uppercase;
-  font-size: 14px;
-  font-weight: 400;
-}
-
+    color: #ffffff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: 400;
+  }
 nav a::before {
-  content: '';
-  display: block;
-  height: 7px;
-  background-color: #ffffff;
-  position: absolute;
-  top: 0;
-  width: 0%;
-  transition: all ease-in-out 250ms;
-}
-
+    content: '';
+    display: block;
+    height: 7px;
+    background-color: #ffffff;
+    position: absolute;
+    top: 0;
+    width: 0%;
+    transition: all ease-in-out 250ms;
+  }
+  
 .Lunk:hover::before {
-  width: 100%;
-}
-
+    width: 100%;
+  }
+  
 .Lunk:hover {
-  color: #585858;
-}
-
-.footer {
-  background-color: #03045e;
-  padding: auto;
-}
+    color: #585858;
+  }
 
 .containermap {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
-}
-
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  
 .map-container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  height: 100%;
-}
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+  }
+  
 .centered-map {
-  display: block;
-  margin: 0 auto;
-}
-
+    display: block;
+    margin: 0 auto;
+  }
+  
 .box {
-  position: relative; /* Ensure pseudo-elements are positioned relative to the box */
-  padding: 20px;
-  background-color: #f9f9f9;
-  margin-bottom: 20px;
-}
-
-/* Angled line styling for custom boxes */
+    position: relative; /* Ensure pseudo-elements are positioned relative to the box */
+    padding: 20px;
+    background-color: #f9f9f9;
+    margin-bottom: 20px;
+  }
+  
+  /* Angled line styling for custom boxes */
 .box::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  background: linear-gradient(135deg, transparent 50%, rgba(0,0,0,0.1) 50%);
-  pointer-events: none; /* Ensure the line doesn't interfere with interaction */
-}
-
-/* Bold and different font for text outside dropdowns */
-h1, h4, label, #regionName {
-  font-weight: bold;
-  font-family: 'Roboto', sans-serif; /* Change to the desired font */
-  font-size: 1.2em; /* Adjust font size as needed */
-}
-
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(135deg, transparent 50%, rgba(0,0,0,0.1) 50%);
+    pointer-events: none; /* Ensure the line doesn't interfere with interaction */
+  }
+  
+  /* Bold and different font for text outside dropdowns */
+  h1, h4, label, #regionName {
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif; /* Change to the desired font */
+    font-size: 1.2em; /* Adjust font size as needed */
+  }
+  
 label {
-  display: block;
-  margin-bottom: 10px;
-}
-
+    display: block;
+    margin-bottom: 10px;
+  }
+  
 #prediction-result {
-  margin-top: 20px;
-}
-
-/* Style for the submit button */
+    margin-top: 20px;
+  }
+  
+  /* Style for the submit button */
 button[type="submit"] {
-  background-color: #03045e; /* Dark blue color for the submit button */
-  color: #ffffff; /* White text */
-  border: none;
-  border-radius: 5px; /* Rounded corners */
-  padding: 10px 15px;
-  cursor: pointer;
-  transition: background-color 0.3s ease;
-  margin-top: 20px; /* Add space above the button */
-}
-
+    background-color: #03045e; /* Dark blue color for the submit button */
+    color: #ffffff; /* White text */
+    border: none;
+    border-radius: 5px; /* Rounded corners */
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 20px; /* Add space above the button */
+  }
+  
 button[type="submit"]:hover {
-  background-color: #086a88; /* Darker blue on hover */
-}
-
-/* Change cursor to pointer for dropdown */
+    background-color: #086a88; /* Darker blue on hover */
+  }
+  
+  /* Change cursor to pointer for dropdown */
 select {
-  cursor: pointer;
-}
-
-/* MORE INFO PAGE BELOW:
-
-/* Ensure the table fits well within the container */
+    cursor: pointer;
+  }
+  
+  /* MORE INFO PAGE BELOW:
+  
+  /* Ensure the table fits well within the container */
 .table {
-  width: 100%;
-  margin-top: 20px;
-}
-
-/* Optional: Additional styling for better readability */
+    width: 100%;
+    margin-top: 20px;
+  }
+  
+  /* Optional: Additional styling for better readability */
 .table thead th {
-  background-color: #f8f9fa;
-}
-
+    background-color: #f8f9fa;
+  }
+  
 .table tbody tr:hover {
-  background-color: #f1f1f1;
-}
+    background-color: #f1f1f1;
+  }
