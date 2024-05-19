@@ -11,7 +11,7 @@ model = load('The_website/static/ml_model/decision_tree_model.joblib')
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'HTX123'
 
-# Dummy label encoders for demonstration purposes
+# Label encoders
 label_encoders = {
     'Gender': LabelEncoder().fit(['Mænd', 'Kvinder']),
     'Age': LabelEncoder().fit(['0-17 År', '18-24 År', '25-44 År', '45-64 År', '65 År og derover']),
