@@ -77,14 +77,27 @@ document.addEventListener('DOMContentLoaded', function() {
                 <li>Alder: ${age}</li>
                 <li>Region: ${region}</li>
                 <li>Køretøjstype: ${vehicle}</li>
-                <li>Forudset skade: ${prediction}</li>
+                <li id="prediction-result">Forudset skade: <span id="prediction">${prediction}</span></li>
             </ul>
         `;
         document.getElementById('more-info-btn').style.display = 'block';
         document.getElementById('identify-link').style.display = 'none';
+
+        // Apply styles based on prediction
+        const predictionElement = document.getElementById('prediction');
+        if (predictionElement) {
+            if (prediction === 'Dræbte') {
+                predictionElement.style.color = 'red';
+            } else if (prediction === 'Alvorligt tilskadekomne') {
+                predictionElement.style.color = 'orange';
+            } else if (prediction === 'Lettere tilskadekomne') {
+                predictionElement.style.color = 'green';
+            }
+            predictionElement.style.fontWeight = 'bold';
+        }
     } else {
         const resultsContainer = document.getElementById('results');
-        resultsContainer.innerHTML = '<p>Ingen resultater endnu. Udfør en forudsigelse først.</p>';
+        resultsContainer.innerHTML = '<p>Ingen resultater endnu. Udfør først en risikovurdering via vores ulykke.</p>';
         document.getElementById('more-info-btn').style.display = 'none';
         document.getElementById('identify-link').style.display = 'block';
     }
