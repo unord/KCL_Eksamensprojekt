@@ -1,0 +1,5 @@
+Image of ex tree model:
+
+https://www.google.com/search?sca_esv=345267d81bec8f30&sca_upv=1&sxsrf=ADLYWIJUmChV00qZ06510YQTVbQ80BD1cg:1716137474574&q=decision+tree&uds=ADvngMgJJZ3sWYwFKSIsRiA2eMJNlB1cmuj7EZdXzX8u_TKKELKEg5UvHob-2JVrBR4mCLyW0fsP-e5NouKV0Ug1vfkbz_Ra3NYO95B676jlY2wQBtMhvIJxQ2AKmrK63TqSvpSoSB4m0A2BhRrRLEW8hLcvg6_1dZc5mlXtRrbexVdXjUiinghXReLQSlPP3C-gCeN6spr50m21O-dIPKnZTDxmIVaRn_t4-l5IthfZ9g7-mGd2giHWGp5lWQtDEl8FcZpiYePq_Y8HePJIp_M0SnVOlKMxXw&udm=2&prmd=ivnmbz&sa=X&ved=2ahUKEwiE3rqklpqGAxVEKRAIHcyeDjUQtKgLegQIERAB&biw=1920&bih=911&dpr=1
+
+https://storage.googleapis.com/algodailyrandomassets/curriculum/Data_Science/Getting%20to%20Know%20Decision%20Trees/decision_tree.png
