@@ -115,7 +115,6 @@ body, html {
 }
 
 h1, h2, h3 {
-    font-family: 'Roboto', sans-serif;
     font-weight: bold;
 }
 
@@ -217,26 +216,11 @@ nav a::before {
 .Lunk:hover {
     color: #585858;
   }
-
-.containermap {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100%;
-  }
   
 .map-container {
     display: flex;
-    justify-content: center;
-    align-items: center;
     width: 100%;
     height: 100%;
-  }
-  
-.centered-map {
-    display: block;
-    margin: 0 auto;
   }
   
 .box {
@@ -332,4 +316,27 @@ select {
 .info-container, .results-container {
     width: 100%;
     padding: 20px;
+}
+
+
+.right-side-box {
+  position: absolute;
+  top: 100px; /* Adjust as needed to position the box vertically */
+  right: 20px; /* Adjust as needed to position the box horizontally */
+  width: 500px; /* Adjust the width of the box */
+  height: 500px;
+  padding: 20px;
+  background-color: #f9f9f9;
+  font-family: 'Roboto', sans-serif;
+}
+
+.right-side-box::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(150deg, transparent 50%, rgba(0,0,0,0.1) 50%);
+  pointer-events: none; /* Ensure the line doesn't interfere with interaction */
 }
