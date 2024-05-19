@@ -1,342 +1,420 @@
-@charset "UTF-8";
-
 /* Base styling */
 body, html {
-    margin: 0;
-    padding: 0;
-    font-family: 'Roboto', sans-serif;
-    background-color: #f8f5f1;
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  background-color: #f8f5f1;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 8px;
+  transform: translateY(-0%);
+  transform: translateX(50%);
 }
 
 /* Campaign Image Left Section */
 .campaignImageLeft {
-    background: #f1ebe3;
-    overflow: hidden;
-    padding: 30px 0;
+  background: #f1ebe3;
+  overflow: hidden;
+  padding: 30px 0;
 }
 
 .campaignImageLeft .campaignImageLeft {
-    position: relative;
-    transform: skew(-15deg);
-    width: 90%;
-    height: 100%;
+  position: relative;
+  width: 100%;
+  height: 100%;
 }
 
 .campaignImageLeft .campaignImageLeft img {
-    position: absolute;
-    left: 0px;
-    height: 100%;
-    transform: skew(15deg);
+  position: absolute;
+  left: 0px;
+  height: 100%;
 }
 
 .campaignTextRight {
-    padding: 30px;
-    background-color: #ffffff;
-    border-radius: 8px;
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 8px;
 }
 
 .campaignTextRight .campaignTitle {
-    font-size: 24px;
-    font-weight: bold;
-    color: #001e3c;
+  font-size: 24px;
+  font-weight: bold;
+  color: #001e3c;
 }
 
+/* Common styles for skew containers */
+.skew-container {
+position: relative;
+width: 100%;
+height: 100%;
+overflow: hidden;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+/* Specific skew container for Trafik.jpg */
+.skew-container-1 {
+position: relative;
+transform: skew(-35deg); /* Increased skew angle */
+width: 100%;
+height: 100%;
+overflow: hidden;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.skew-image-1 {
+transform: skew(35deg); /* Counter-skew with the same increased angle */
+width: 100%;
+height: auto;
+max-height: 83.15%;
+object-fit: contain;
+}
+
+/* Specific skew container for politi.jpg */
+.skew-container-2 {
+position: relative;
+transform: skew(-35deg); /* Increased skew angle */
+width: 100%;
+height: 100%;
+overflow: hidden;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.skew-image-2 {
+transform: skew(35deg); /* Counter-skew with the same increased angle */
+width: 100%;
+height: auto;
+max-height: 83.15%;
+object-fit: contain;
+}
+
+/* Specific skew container for decision_tree.png */
+.skew-container-3 {
+position: relative;
+transform: skew(-35deg);
+width: 100%;
+height: 100%;
+overflow: hidden;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.skew-image-3 {
+transform: skew(35deg);
+width: 100%;
+height: auto;
+max-height: 100%;
+object-fit: cover;
+}
+
+/* Primary button arrow */
 .primary-button-arrow {
-    display: inline-block;
-    margin-top: 20px;
-    padding: 10px 15px;
-    background-color: #001e3c;
-    color: #ffffff;
-    border: none;
-    border-radius: 5px;
-    text-decoration: none;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 15px;
+  background-color: #001e3c;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  text-decoration: none;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
 }
 
 .primary-button-arrow:hover {
-    background-color: #0056b3;
+  background-color: #0056b3;
 }
 
 /* Campaign Image Right Section */
 .campaignImageRight {
-    background: #f8f5f1;
-    overflow: hidden;
-    padding: 30px 0;
+  background: #f8f5f1;
+  overflow: hidden;
+  padding: 30px 0;
 }
 
 .campaignImageRight .campaignImageRight {
-    position: relative;
-    transform: skew(-15deg);
-    width: 90%;
-    height: 100%;
+  position: relative;
+  transform: skew(-15deg);
+  width: 90%;
+  height: 100%;
 }
 
 .campaignImageRight .campaignImageRight img {
-    position: absolute;
-    right: -15px;
-    height: 100%;
-    transform: skew(15deg);
+  position: absolute;
+  right: -15px;
+  height: 100%;
+  transform: skew(15deg);
 }
 
 .campaignTextLeft {
-    padding: 30px;
-    background-color: #ffffff;
-    border-radius: 8px;
+  padding: 30px;
+  background-color: #ffffff;
+  border-radius: 8px;
 }
 
 .campaignTextLeft .campaignTitle {
-    font-size: 24px;
-    font-weight: bold;
-    color: #001e3c;
+  font-size: 24px;
+  font-weight: bold;
+  color: #001e3c;
 }
 
 .results-container {
-    background-color: #ebebeb;
-    border-radius: 25px;
-    padding: 20px;
-    text-align: center;
-    margin-top: 15px;
+  background-color: #ebebeb;
+  border-radius: 25px;
+  padding: 20px;
+  text-align: center;
+  margin-top: 15px;
 }
 
 /* Additional Styles */
 .container-fluid {
-    padding: 0 15px;
+  padding: 0 15px;
 }
 
 .row {
-    display: flex;
-    flex-wrap: wrap;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .col-6 {
-    width: 50%;
-    padding: 15px;
+  width: 50%;
+  padding: 15px;
 }
 
 h1, h2, h3 {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 p {
-    font-family: 'Roboto', sans-serif;
-    line-height: 1.6;
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.6;
 }
 
 .btn {
-    display: inline-block;
-    padding: 10px 15px;
-    font-size: 14px;
-    cursor: pointer;
-    text-align: center;
-    text-decoration: none;
-    color: #ffffff;
-    background-color: #001e3c;
-    border: none;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
+  display: inline-block;
+  padding: 10px 15px;
+  font-size: 14px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #001e3c;
+  border: none;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
 }
 
 .btn:hover {
-    background-color: #0056b3;
+  background-color: #0056b3;
 }
 
 /* Media Queries */
 @media (min-width: 768px) {
-    .campaignImageLeft .campaignImageLeft,
-    .campaignImageRight .campaignImageRight {
-        width: 100%;
-    }
+  .campaignImageLeft .campaignImageLeft,
+  .campaignImageRight .campaignImageRight {
+      width: 100%;
+  }
 
-    .campaignTextRight,
-    .campaignTextLeft {
-        padding: 75px;
-        min-height: 500px;
-    }
+  .campaignTextRight,
+  .campaignTextLeft {
+      padding: 75px;
+      min-height: 500px;
+  }
 
-    .campaignTitle {
-        font-size: 40px;
-        line-height: 50px;
-    }
+  .campaignTitle {
+      font-size: 40px;
+      line-height: 50px;
+  }
 }
 
 @media (max-width: 767px) {
-    .col-6 {
-        width: 100%;
-    }
+  .col-6 {
+      width: 100%;
+  }
 }
 header {
-    background: #001e3c !important;
-    min-height: 85px !important;
-  }
+  background: #001e3c !important;
+  min-height: 85px !important;
+}
 .Logo {
-    float: left !important;
-    padding: 5px;
-  }
-  
+  float: left !important;
+  padding: 5px;
+}
+
 nav {
-    float: right !important;
-  }
-  
+  float: right !important;
+}
+
 nav ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-  }
-  
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
 nav li {
-    display: inline-block;
-    margin-left: 70px;
-    padding-top: 23px;
-    position: relative;
-  }
-  
+  display: inline-block;
+  margin-left: 70px;
+  padding-top: 23px;
+  position: relative;
+}
+
 nav a {
-    color: #ffffff;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-size: 14px;
-    font-weight: 400;
-  }
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 400;
+}
 nav a::before {
-    content: '';
-    display: block;
-    height: 7px;
-    background-color: #ffffff;
-    position: absolute;
-    top: 0;
-    width: 0%;
-    transition: all ease-in-out 250ms;
-  }
-  
-.Lunk:hover::before {
-    width: 100%;
-  }
-  
-.Lunk:hover {
-    color: #585858;
-  }
-  
-.map-container {
-    display: flex;
-    width: 100%;
-    height: 100%;
-  }
-  
-.box {
-    position: relative; /* Ensure pseudo-elements are positioned relative to the box */
-    padding: 20px;
-    background-color: #f9f9f9;
-    margin-bottom: 20px;
-  }
-  
-  /* Angled line styling for custom boxes */
-.box::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: linear-gradient(135deg, transparent 50%, rgba(0,0,0,0.1) 50%);
-    pointer-events: none; /* Ensure the line doesn't interfere with interaction */
-  }
-  
-  /* Bold and different font for text outside dropdowns */
-  h1, h4, label, #regionName {
-    font-weight: bold;
-    font-family: 'Roboto', sans-serif; /* Change to the desired font */
-    font-size: 1.2em; /* Adjust font size as needed */
-  }
-  
-label {
-    display: block;
-    margin-bottom: 10px;
-  }
-  
-#prediction-result {
-    margin-top: 20px;
-  }
-  
-  /* Style for the submit button */
-button[type="submit"] {
-    background-color: #03045e; /* Dark blue color for the submit button */
-    color: #ffffff; /* White text */
-    border: none;
-    border-radius: 5px; /* Rounded corners */
-    padding: 10px 15px;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-    margin-top: 20px; /* Add space above the button */
-  }
-  
-button[type="submit"]:hover {
-    background-color: #086a88; /* Darker blue on hover */
-  }
-  
-  /* Change cursor to pointer for dropdown */
-select {
-    cursor: pointer;
-  }
-  
-  /* MORE INFO PAGE BELOW:
-  
-  /* Ensure the table fits well within the container */
-.table {
-    width: 100%;
-    margin-top: 20px;
-  }
-  
-  /* Optional: Additional styling for better readability */
-.table thead th {
-    background-color: #f8f9fa;
-  }
-  
-.table tbody tr:hover {
-    background-color: #f1f1f1;
-  }
-
-  .d-flex {
-    display: flex;
-}
-
-.flex-column {
-    flex-direction: column;
-}
-
-.align-items-center {
-    align-items: center;
-}
-
-.grid-container {
-    max-width: 800px; /* Adjust as necessary */
-    width: 100%;
-}
-
-.info-container, .results-container {
-    width: 100%;
-    padding: 20px;
-}
-
-
-.right-side-box {
+  content: '';
+  display: block;
+  height: 7px;
+  background-color: #ffffff;
   position: absolute;
-  top: 100px; /* Adjust as needed to position the box vertically */
-  right: 20px; /* Adjust as needed to position the box horizontally */
-  width: 500px; /* Adjust the width of the box */
-  height: 500px;
+  top: 0;
+  width: 0%;
+  transition: all ease-in-out 250ms;
+}
+
+.Lunk:hover::before {
+  width: 100%;
+}
+
+.Lunk:hover {
+  color: #585858;
+}
+
+.map-container {
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
+.box {
+  position: relative; /* Ensure pseudo-elements are positioned relative to the box */
   padding: 20px;
   background-color: #f9f9f9;
-  font-family: 'Roboto', sans-serif;
+  margin-bottom: 20px;
 }
 
-.right-side-box::before {
+/* Angled line styling for custom boxes */
+.box::before {
   content: '';
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(150deg, transparent 50%, rgba(0,0,0,0.1) 50%);
+  background: linear-gradient(135deg, transparent 50%, rgba(0,0,0,0.1) 50%);
   pointer-events: none; /* Ensure the line doesn't interfere with interaction */
+}
+
+/* Bold and different font for text outside dropdowns */
+h1, h4, label, #regionName {
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif; /* Change to the desired font */
+  font-size: 1.2em; /* Adjust font size as needed */
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+#prediction-result {
+  margin-top: 20px;
+}
+
+/* Style for the submit button */
+button[type="submit"] {
+  background-color: #03045e; /* Dark blue color for the submit button */
+  color: #ffffff; /* White text */
+  border: none;
+  border-radius: 5px; /* Rounded corners */
+  padding: 10px 15px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-top: 20px; /* Add space above the button */
+}
+
+button[type="submit"]:hover {
+  background-color: #086a88; /* Darker blue on hover */
+}
+
+/* Change cursor to pointer for dropdown */
+select {
+  cursor: pointer;
+}
+
+/* MORE INFO PAGE BELOW:
+
+/* Ensure the table fits well within the container */
+.table {
+  width: 100%;
+  margin-top: 20px;
+}
+
+/* Optional: Additional styling for better readability */
+.table thead th {
+  background-color: #f8f9fa;
+}
+
+.table tbody tr:hover {
+  background-color: #f1f1f1;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.grid-container {
+  max-width: 800px; /* Adjust as necessary */
+  width: 100%;
+}
+
+.info-container, .results-container {
+  width: 100%;
+  padding: 20px;
+}
+
+
+.right-side-box {
+position: absolute;
+top: 100px; /* Adjust as needed to position the box vertically */
+right: 20px; /* Adjust as needed to position the box horizontally */
+width: 500px; /* Adjust the width of the box */
+height: 500px;
+padding: 20px;
+background-color: #f9f9f9;
+font-family: 'Roboto', sans-serif;
+}
+
+.right-side-box::before {
+content: '';
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+background: linear-gradient(150deg, transparent 50%, rgba(0,0,0,0.1) 50%);
+pointer-events: none; /* Ensure the line doesn't interfere with interaction */
 }
