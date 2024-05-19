@@ -221,6 +221,7 @@ nav a::before {
     display: flex;
     width: 100%;
     height: 100%;
+    padding-left: 100px;
   }
   
 .box {
@@ -322,9 +323,9 @@ select {
 .right-side-box {
   position: absolute;
   top: 100px; /* Adjust as needed to position the box vertically */
-  right: 20px; /* Adjust as needed to position the box horizontally */
+  right: 50px; /* Adjust as needed to position the box horizontally */
   width: 500px; /* Adjust the width of the box */
-  height: 500px;
+  height: 400px;
   padding: 20px;
   background-color: #f9f9f9;
   font-family: 'Roboto', sans-serif;
