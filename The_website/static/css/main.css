@@ -311,3 +311,25 @@ select {
 .table tbody tr:hover {
     background-color: #f1f1f1;
   }
+
+  .d-flex {
+    display: flex;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.grid-container {
+    max-width: 800px; /* Adjust as necessary */
+    width: 100%;
+}
+
+.info-container, .results-container {
+    width: 100%;
+    padding: 20px;
+}
