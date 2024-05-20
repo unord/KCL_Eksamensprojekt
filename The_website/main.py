@@ -4,21 +4,21 @@ Description:
 This script serves as the backend for a Flask web application designed to predict the type of injury an individual might sustain in a traffic accident based on various input parameters. It uses a pre-trained decision tree model to make predictions.
 
 The application comprises the following main components:
-1. **Flask Setup**: Initializes the Flask application and configures the secret key for session management.
-2. **Model Loading**: Loads the pre-trained decision tree model from a .joblib file.
-3. **Label Encoding**: Defines label encoders for transforming categorical input data into numerical format suitable for model prediction.
-4. **Routes**: 
-   - Home Route (`/`): Renders the home page and handles navigation to other pages.
-   - Prediction Route (`/predict_injury`): Accepts POST requests with input data, processes the data, makes predictions using the model, and returns the prediction.
-   - More Info Route (`/more_info`): Provides additional information based on the user's inputs and prediction results, including alternative regions and vehicle types with the best and worst predicted outcomes.
+1. 'Flask Setup': Initializes the Flask application and configures the secret key for session management.
+2. 'Model Loading': Loads the pre-trained decision tree model from a .joblib file.
+3. 'Label Encoding': Defines label encoders for transforming categorical input data into numerical format suitable for model prediction.
+4. 'Routes': 
+   - Home Route ('/'): Renders the home page and handles navigation to other pages.
+   - Prediction Route ('/predict_injury'): Accepts POST requests with input data, processes the data, makes predictions using the model, and returns the prediction.
+   - More Info Route ('/more_info'): Provides additional information based on the user's inputs and prediction results, including alternative regions and vehicle types with the best and worst predicted outcomes.
 
 Functions:
-- `home(page=None)`: Renders the appropriate template based on the requested page.
-- `predict_injury()`: Processes input data, makes a prediction using the loaded model, and returns the result as a JSON formatted response.
-- `more_info()`: Calculates alternative outcomes based on different regions and vehicle types, and renders the 'more_info' template with these details.
+- 'home(page=None)': Renders the appropriate template based on the requested page.
+- 'predict_injury()': Processes input data, makes a prediction using the loaded model, and returns the result as a JSON formatted response.
+- 'more_info()': Calculates alternative outcomes based on different regions and vehicle types, and renders the 'more_info' template with these details.
 
 Usage:
-Run this script to start the Flask web server. The server will be accessible at `http://0.0.0.0:5000`.
+Run this script to start the Flask web server. The server will be accessible at 'http://0.0.0.0:5000'.
 
 Dependencies:
 - Flask
@@ -59,12 +59,12 @@ def home(page=None):
     """
     Handles routing for the home page and other static pages of the web application.
 
-    The home function is responsible for rendering different templates based on the URL path provided. It supports multiple routes to render specific pages within the application. The function uses Flask's `render_template` method to serve HTML templates.
+    The home function is responsible for rendering different templates based on the URL path provided. It supports multiple routes to render specific pages within the application. The function uses Flask's 'render_template' method to serve HTML templates.
 
     Routes:
-    - `/`: Renders the home page.
-    - `/Page2/`: Renders the Page2 template.
-    - `/Page3/`: Renders the Page3 template.
+    - '/': Renders the home page.
+    - '/Page2/': Renders the Page2 template.
+    - '/Page3/': Renders the Page3 template.
 
     Parameters:
     - page (str, optional): The specific page to be rendered. Default is None, which renders the home page.
@@ -73,8 +73,8 @@ def home(page=None):
     - str: Rendered HTML template for the requested page.
 
     Example:
-    - Accessing the root URL (`/`) will render `home.html`.
-    - Accessing `/Page2/` will render `Page2.html`.
+    - Accessing the root URL ('/') will render 'home.html'.
+    - Accessing '/Page2/' will render 'Page2.html'.
     """
     if page == 'Page2':
         return render_template('Page2.html')
