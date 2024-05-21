@@ -1,17 +1,17 @@
 {% extends "base.html" %}
 
 {% block content %}
-
+<!-- First ribbon "Information" -->
 <section class="campaignImageLeft" aria-labelledby="campaignLeft_FE3FFEA2-3CAD-439D-8735-823ACB98ED9D">
-    <div class="container-fluid">
+    <div class="container-fluid"><!-- styling for the background of the 1. ribbon -->
         <div class="row align-items-stretch">
             <div class="col col-6 d-flex align-items-stretch">
-                <div class="skew-container-1 flex-grow-1">
-                    <img src="{{ url_for('static', filename='img/Trafik.jpg') }}" alt="Sample Image" class="skew-image-1"/>
+                <div class="skew-container-1 flex-grow-1"><!-- applying skew to the image -->
+                    <img src="{{ url_for('static', filename='img/Trafik.jpg') }}" alt="Sample Image" class="skew-image-1"/> <!-- Image for the 1. ribbon -->
                 </div>
             </div>
             <div class="col col-6 d-flex align-items-center">
-                <div class="campaignTextRight">
+                <div class="campaignTextRight"><!-- Text container for the 1. ribbon -->
                     <h2 id="campaignLeft_FE3FFEA2-3CAD-439D-8735-823ACB98ED9D" class="campaignTitle dark-blue h1-police-bold">Information</h2>
                     <p>Velkommen til Politiets ulykkeberegner! Vores hjemmeside anvender data fra Danmarks Statistik til at analysere og forudsige, hvilken type uheld du kan være i forhøjet risiko for, baseret på din lokation, køretøj, alder og køn. Vi kan ikke garantere, hvad der vil ske i tilfælde af et uheld, men vores mål er at illustrere potentielle forhøjede risici for bestemte typer uheld.</p>
                     <p>Vores avancerede algoritmer bearbejder data for at give dig en bedre forståelse af, hvilke faktorer der kan påvirke typen af uheld, du kunne være mest udsat for. Dette kan måske være vejledende i forhold til at vælge køretøjsform eller tage andre forholdsregler.</p>
@@ -21,33 +21,35 @@
         </div>
     </div>
 </section>
+<!-- second ribbon "Resultat" -->
 <section class="campaignImageRight" aria-labelledby="campaignRight_30FD4A96-B250-4F02-8C6F-BBB031DC8D54">
     <div class="container-fluid">
         <div class="row align-items-stretch">
             <div class="col col-6 d-flex align-items-center">
                 <div class="vertical-center">
-                    <h2 id="campaignRight_30FD4A96-B250-4F02-8C6F-BBB031DC8D54" class="campaignTitle dark-blue h1-police-bold">Resultat</h2>
-                    <div id="results"></div>
+                    <h2 id="campaignRight_30FD4A96-B250-4F02-8C6F-BBB031DC8D54" class="campaignTitle dark-blue h1-police-bold">Resultat</h2> 
+                    <div id="results"></div> <!-- Container for showcasing results -->
                     <button id="more-info-btn" class="primary-button-arrow h6-police-bold mt-3">Mere Information</button>
-                    <a id="identify-link" class="Lunk btn btn-secondary mt-3" href="/Page2/" style="display: none;">
+                    <a id="identify-link" class="Lunk btn btn-secondary mt-3" href="/Page2/" style="display: none;"> <!-- button to page 2 -->
                         <i class="bi bi-search"></i> Find din risiko her
                     </a>
                 </div>
             </div>
             <div class="col col-6 d-flex align-items-stretch">
-                <div class="skew-container-2 flex-grow-1">
-                    <img src="{{ url_for('static', filename='img/politi.jpg') }}" alt="Sample Image" class="skew-image-2"/>
+                <div class="skew-container-2 flex-grow-1"><!-- applying skew to the image -->
+                    <img src="{{ url_for('static', filename='img/politi.jpg') }}" alt="Sample Image" class="skew-image-2"/> <!-- Image for the 2. ribbon -->
                 </div>
             </div>
         </div>
     </div>
 </section>
+<!-- Third ribbon "vores process" -->
 <section class="campaignImageLeft" aria-labelledby="campaignLeft_14663F7D-B937-4C47-99A5-5A5A890C1D4E">
     <div class="container-fluid">
         <div class="row align-items-stretch">
             <div class="col col-6 d-flex align-items-stretch">
-                <div class="skew-container-3 flex-grow-1">
-                    <img src="{{ url_for('static', filename='img/decision_tree.png') }}" alt="Process Image" class="skew-image-3"/>
+                <div class="skew-container-3 flex-grow-1"> <!-- applying skew to the image -->
+                    <img src="{{ url_for('static', filename='img/decision_tree.png') }}" alt="Process Image" class="skew-image-3"/> <!-- Image for the 3. ribbon  -->
                 </div>
             </div>
             <div class="col col-6 d-flex align-items-center">
@@ -59,7 +61,7 @@
         </div>
     </div>
 </section>
-
+<!-- Script for transfering the info from the form to the home page -->
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     const prediction = sessionStorage.getItem('prediction');
