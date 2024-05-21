@@ -1,19 +1,19 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="d-flex flex-column align-items-center">
+<div class="d-flex flex-column align-items-center"> <!-- Div to center the content -->
     <h1>Mere Information</h1>
-    <div class="grid-container">
-        <div class="info-container">
+    <div class="grid-container"><!-- Container for "More info" -->
+        <div class="info-container"> <!-- Shows best and worst parameters for your age bracket -->
             <h3>De bedste og værste gennemsnitlige parametre for dig:</h3>
             <p><strong>Bedste Region:</strong> {{ best_region }}</p>
             <p><strong>Værste Region:</strong> {{ worst_region }}</p>
             <p><strong>Bedste Fartøj:</strong> {{ best_vehicle }}</p>
             <p><strong>Værste Fartøj:</strong> {{ worst_vehicle }}</p>
         </div>
-        <div class="results-container">
+        <div class="results-container"> <!-- Container for different permutations -->
             <h3>Alle Mulige Kombinationer</h3>
-            <button id="toggle-results-btn" class="btn btn-secondary mt-3">Vis Alle Resultater</button>
+            <button id="toggle-results-btn" class="btn btn-secondary mt-3">Vis Alle Resultater</button><!-- Button to open the table containing all possible outcomes for the user considering age and gender -->
             <div id="all-results" style="display: none;">
                 <table class="table table-striped">
                     <thead>
@@ -39,8 +39,8 @@
         </div>
     </div>
 </div>
-
-<script>
+<!-- Script to toggle table on or off -->
+<script> 
 document.getElementById('toggle-results-btn').addEventListener('click', function() {
     const allResults = document.getElementById('all-results');
     if (allResults.style.display === 'none') {

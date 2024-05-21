@@ -1,18 +1,18 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div class="container">
+<div class="container"> <!-- Container for region result -->
   <div id="regionName" class="box">Din valgte region: <span id="selected-region"></span></div>
-  <form id="prediction-form" class="box">
+  <form id="prediction-form" class="box"><!-- Info form -->
 
 
-      <label for="gender">Dit Køn</label>
+      <label for="gender">Dit Køn</label> <!-- Gender dropdown -->
       <select class="form-control" name="gender" id="gender">
         <option value="Mand">Mand</option>
         <option value="Kvinde">Kvinde</option>
       </select>
 
-      <label for="age">Din Alder</label>
+      <label for="age">Din Alder</label> <!-- Age dropdown -->
       <select class="form-control" name="age" id="age">
         <option value="0-17 År">0-17 År</option>
         <option value="18-24 År">18-24 År</option>
@@ -21,7 +21,7 @@
         <option value="65 År og derover">65 År og derover</option>
       </select>
 
-      <label for="vehicle">Type af fartøj:</label>
+      <label for="vehicle">Type af fartøj:</label> <!-- Vehicle dropdown -->
       <select class="form-control" name="vehicle" id="vehicle">
         <option value="Almindelig personbil">Almindelig personbil</option>
         <option value="Taxi">Taxi</option>
@@ -38,13 +38,13 @@
       </select>
 
 
-    <button type="submit" class="btn btn-primary box">Indsend</button>
+    <button type="submit" class="btn btn-primary box">Indsend</button> <!-- Submit button -->
   </form>
   <div id="prediction-result"></div>
 </div>
 
-
-<script>
+<!-- Script to send results to home page -->
+<script> 
   $(document).ready(function() {
     const region = localStorage.getItem('selectedRegion');
     $('#selected-region').text(region);
